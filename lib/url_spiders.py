@@ -5,11 +5,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.keys import Keys
-from pyquery import PyQuery as pq
 import config
-from ubuntu_sso import account
 import time
-
+import os, csv
 
 __author__ = 'ZHANGLI'
 
@@ -32,13 +30,13 @@ class url_spiders(object):
         self.driver.close()
             
     def spider_account(self, account_url):
-        self.basic_info = []
-        self.img_url = []
+        self.account_url = account_url
+        self.img_url_dict = {}
         if(True == self.spider_initilization(account_url)):
             self.basic_info = self.spider_crawl_info()
             self.spider_click_load_more()
-            self.spider_scroll_down()
-            self.imgs_hrefs = self.spider_get_imgs()
+            self.write_init()
+            self.spider_crawl_scroll_down()
             return True
         else:
             return False
@@ -52,7 +50,6 @@ class url_spiders(object):
         return True
     
     def spider_crawl_info(self):
-        #get title name
         info = []
         element = self.driver.find_element_by_xpath("//h1")
         info.append(element.text)
@@ -64,7 +61,6 @@ class url_spiders(object):
             else:
                 num = element.text
                 info.append(int(self.normalize_num_str(num)))
-
         return info
     
     def spider_click_load_more(self):
@@ -79,9 +75,10 @@ class url_spiders(object):
         element.click()
         self.spider_wait_all_load()
     
-    def spider_scroll_down(self):
-        img_divs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']")
-        pic_num = len(img_divs)
+    def spider_crawl_scroll_down(self):
+        self.write_header()
+        imgs_hrefs = self.spider_get_imgs()
+        pic_num = len(imgs_hrefs)
         unchange_time = 0
         while True:
             try:
@@ -97,14 +94,21 @@ class url_spiders(object):
                 print 'scroll fail'
                 return
             
-            img_divs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']")
-            _new_pic_num = len(img_divs)
+            imgs_hrefs = self.spider_get_imgs()
+            _new_pic_num = len(imgs_hrefs)
             
             if pic_num==_new_pic_num:
                 unchange_time = unchange_time + 1
             else:
+                self.write_urls(imgs_hrefs)
                 pic_num = _new_pic_num
                 unchange_time = 0
+            
+            if unchange_time>0 and unchange_time%10==0:
+                js = "window.scrollBy(0, -50)"
+                self.driver.execute_script(js)
+                time.sleep(10)
+                self.spider_wait_all_load()
             
             if unchange_time >= 100:
                 break
@@ -112,11 +116,12 @@ class url_spiders(object):
     
     def spider_get_imgs(self):
         imgs_href = []
-        imgs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/img")
         hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")
-        assert(len(imgs)==len(hrefs))
-        for (img, href) in zip(imgs, hrefs):
-            imgs_href.append((img, href))
+        for href in hrefs:
+            img = href.find_element_by_xpath(".//img")
+            if img.get_attribute('src'):
+                imgs_href.append((img.get_attribute('src'), href.get_attribute('href')))
+        print len(imgs_href)
         return imgs_href
     
     def spider_wait_all_load(self, implicitly_wait_time = 5):
@@ -138,9 +143,50 @@ class url_spiders(object):
         num = num.replace('m', '000000')
         return num
     
-    def save_result(self):
+    def write_init(self):
+        self.base_dir = os.path.dirname(os.path.abspath(__file__))
+        self.out_dir = os.path.join(os.path.join(self.base_dir, '../file'), self.basic_info[0])
+        if not os.path.exists(self.out_dir):
+            os.makedirs(self.out_dir)
+        self.header_name = os.path.join(self.out_dir, 'info.csv')
+        if not os.path.exists(self.header_name):
+            with open(self.header_name, 'wt') as fp:
+                self.writer = csv.writer(fp)
+                self.writer.writerow(('name', 'posts', 'followers', 'following', 
+                                      'base_url', 
+                                      'update_time',
+                                      'total_imgs'))
+        self.urls_name = os.path.join(self.out_dir, 'urls.csv')
+        if not os.path.exists(self.urls_name):
+            with open(self.urls_name, 'wt') as fp:
+                self.writer = csv.writer(fp)
+                self.writer.writerow(('img_url', 
+                                      'href_url',
+                                      'update_time'))
         pass
     
-    def save_exception(self):
+    def write_header(self):
+        with open(self.header_name, 'at') as fp:
+            self.writer = csv.writer(fp)
+            self.writer.writerow((self.basic_info[0],
+                                  self.basic_info[1], 
+                                  self.basic_info[2], 
+                                  self.basic_info[3],
+                                  self.account_url, 
+                                  time.ctime(),
+                                  len(self.img_url_dict)))
+        pass
+    
+    def write_urls(self, imgs_hrefs):
+        with open(self.urls_name, 'at') as fp:
+            self.writer = csv.writer(fp)
+            for (img_src, href) in imgs_hrefs:
+                if img_src in self.img_url_dict:
+                    continue
+                else:
+                    self.img_url_dict[img_src] = 'https://www.instagram.com' + href
+                    self.writer.writerow((img_src, 
+                                          self.img_url_dict[img_src], 
+                                          time.ctime()))
         pass
         
