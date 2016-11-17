@@ -113,7 +113,7 @@ class spiders_urls(object):
                 else:
                     unchange_time = 0
                 
-                if time.time()-last_process_time>60: #we save the temporal results every two minumtes
+                if time.time()-last_process_time>60 and new_num > num: #we save the temporal results every two minumtes
                     imgs_hrefs = self.spider_get_imgs()
                     self.db_imgs.update_imgs(base_url, imgs_hrefs)
                     last_process_time = time.time()
