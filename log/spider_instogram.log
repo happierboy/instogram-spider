@@ -1,0 +1,50 @@
+Thu 17 Nov 2016 18:21:44 INFO logger.py 33 1021 start crawl intogram account
+Thu 17 Nov 2016 18:22:07 INFO logger.py 33 1239 start crawl intogram account
+Thu 17 Nov 2016 18:23:28 ERROR logger.py 39 1239 scroll to bottom error object of type 'int' has no len()
+Thu 17 Nov 2016 18:24:13 INFO logger.py 33 1589 start crawl intogram account
+Thu 17 Nov 2016 18:25:34 INFO logger.py 33 1589 update 396 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:27:14 INFO logger.py 33 1589 update 720 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:29:14 INFO logger.py 33 1589 update 1008 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:31:31 INFO logger.py 33 1589 update 1248 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:34:05 INFO logger.py 33 1589 update 1464 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:36:56 INFO logger.py 33 1589 update 1632 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:37:30 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 18:38:09 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 18:40:01 INFO logger.py 33 1589 update 1632 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:43:10 INFO logger.py 33 1589 update 1800 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:46:30 INFO logger.py 33 1589 update 1944 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:50:04 INFO logger.py 33 1589 update 2076 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:53:50 INFO logger.py 33 1589 update 2196 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 18:57:52 INFO logger.py 33 1589 update 2304 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:02:09 INFO logger.py 33 1589 update 2412 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:06:35 INFO logger.py 33 1589 update 2508 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:11:15 INFO logger.py 33 1589 update 2604 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:12:41 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:16:45 INFO logger.py 33 1589 update 2668 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:17:20 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:17:59 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:22:02 INFO logger.py 33 1589 update 2668 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:22:36 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:23:14 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:27:17 INFO logger.py 33 1589 update 2668 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:27:53 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:28:36 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:32:38 INFO logger.py 33 1589 update 2668 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:33:12 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:33:51 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:37:41 INFO logger.py 33 1589 update 2668 images from https://www.instagram.com/wendyslookbook/
+Thu 17 Nov 2016 19:38:17 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
+Thu 17 Nov 2016 19:38:55 INFO logger.py 33 1589 loading wait_increase failure Message: 
+
