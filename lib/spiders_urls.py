@@ -94,7 +94,6 @@ class spiders_urls(object):
                     self.driver.execute_script(js)
                     time.sleep(random.randint(25, 75)/50.0)
                     self.spider_wait_more_than(num = num)
-#                     new_num = self.spider_get_imgs_num()
                 except Exception as e:
                     self.logger.print_error('scroll fail ' + str(e))
                 
@@ -119,10 +118,13 @@ class spiders_urls(object):
                     last_process_time = time.time()
                     self.logger.print_info("update {num} images from {base_url}".format(num = len(imgs_hrefs), base_url = base_url))
                 
-                if unchange_time>16:
+                if unchange_time>6:
+                    scroll_len = random.randint(-100, -40)
+                    js = "window.scrollBy(0, %s)"%(str(scroll_len))
+                    self.driver.execute_script(js)
                     time.sleep(random.randint(60, 180)/60.0)
                 
-                if unchange_time > 20:
+                if unchange_time > 10:
                     break
         except Exception as e: 
             self.logger.print_error("scroll to bottom error " + str(e))
