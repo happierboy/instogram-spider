@@ -10,8 +10,7 @@ from lib.db_users import instogramer, db_instogramer
 from lib.logger import spider_logger
 from lib.db_imgs import db_imgs
 from lib.condition_more_than import count_more_than
-from lib import condition_more_than
-import random
+import random, math
 
 __author__ = 'ZHANGLI'
 
@@ -19,7 +18,6 @@ class spiders_urls(object):
     def __init__(self, intogram_accounts):
         super(spiders_urls, self).__init__()
         self.intogram_accounts = intogram_accounts
-        self.driver = webdriver.Chrome()
         self.db_users = db_instogramer()
         self.logger = spider_logger()
         self.db_imgs = db_imgs()
@@ -28,8 +26,13 @@ class spiders_urls(object):
     def spider_accounts(self):
         self.logger.print_info('start crawl intogram account')
         for base_url in self.intogram_accounts:
+            chromeOptions = webdriver.ChromeOptions()
+            prefs = {"profile.managed_default_content_settings.images":2}
+            chromeOptions.add_experimental_option("prefs",prefs)
+            self.driver = webdriver.Chrome(chrome_options=chromeOptions)
             self.spider_account(base_url)
-        self.driver.close()
+            self.driver.close()
+            time.sleep(random.randint(30, 90))
             
     def spider_account(self, base_url):
         self.base_url = base_url
@@ -87,20 +90,28 @@ class spiders_urls(object):
                 num = self.spider_get_imgs_num()
                 print base_url, str(num)
                 try:
-                    js = "window.scrollBy(0, -50)"
-                    self.driver.execute_script(js)
+                    self.logger.print_info("start scroll up")
+                    for idx in range(0, random.randint(1,4)):
+                        scroll_len = random.randint(-200, -50)* min(math.ceil(math.sqrt(num)/15), 10)
+                        js = "window.scrollBy(0, %d)"%(scroll_len+idx)
+                        self.driver.execute_script(js)
+                        time.sleep(0.1)
                     time.sleep(random.randint(25, 75)/50.0)
+                    self.logger.print_info("start scroll down")
                     js = "window.scrollTo(0, document.body.scrollHeight)"
                     self.driver.execute_script(js)
                     time.sleep(random.randint(25, 75)/50.0)
                     self.spider_wait_more_than(num = num)
+                    self.logger.print_info("finish scroll")
                 except Exception as e:
                     self.logger.print_error('scroll fail ' + str(e))
                 
                 new_num = self.spider_get_imgs_num()
-                if new_num==num and unchange_time%5==0:
+                if new_num==num and unchange_time%3==0:
                     try:
+                        self.logger.print_info("start click")
                         self.spider_click(xpath = "//a[@class='_oidfu']")
+                        self.logger.print_info("finish click")
                     except NoSuchElementException:
                         pass
                     except Exception as e:
@@ -111,20 +122,15 @@ class spiders_urls(object):
                     unchange_time = unchange_time + 1
                 else:
                     unchange_time = 0
-                
-                if time.time()-last_process_time>60 and new_num > num: #we save the temporal results every two minumtes
+                self.logger.print_info("new_number: %d, num: %d, unchange_time: %d"%(new_num, num, unchange_time))
+                if time.time()-last_process_time>60*30 and new_num > num: #we save the temporal results every 30 minutes
                     imgs_hrefs = self.spider_get_imgs()
+                    self.logger.print_info("start update {num} images from {base_url}".format(num = len(imgs_hrefs), base_url = base_url))
                     self.db_imgs.update_imgs(base_url, imgs_hrefs)
                     last_process_time = time.time()
-                    self.logger.print_info("update {num} images from {base_url}".format(num = len(imgs_hrefs), base_url = base_url))
-                
-                if unchange_time>6:
-                    scroll_len = random.randint(-100, -40)
-                    js = "window.scrollBy(0, %s)"%(str(scroll_len))
-                    self.driver.execute_script(js)
-                    time.sleep(random.randint(60, 180)/60.0)
-                
-                if unchange_time > 10:
+                    self.logger.print_info("finish update {num} images from {base_url}".format(num = len(imgs_hrefs), base_url = base_url))
+                                   
+                if unchange_time > 5:
                     break
         except Exception as e: 
             self.logger.print_error("scroll to bottom error " + str(e))
@@ -134,12 +140,72 @@ class spiders_urls(object):
         return
     
     def spider_get_imgs(self):
-        imgs_href = []
-        hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")
-        for href in hrefs:
-            img = href.find_element_by_xpath(".//img")
-            if img.get_attribute('src'):
+        '''confirm the correspondence of href and src'''
+        try:
+            imgs_href = []
+            start_time = time.time()
+            hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")
+            stage1_time = time.time()
+            self.logger.print_info("locating all hrefs using %0.3f"%(stage1_time-start_time))
+            for idx, href in enumerate(hrefs):
+                img = href.find_element_by_xpath(".//img")
+                if img.get_attribute('src'):
+                    imgs_href.append((img.get_attribute('src'), href.get_attribute('href')))
+                if idx%1001==1000:
+                    stage2_time = time.time()
+                    self.logger.print_info("locating 1000 hrefs using %0.3f"%(stage2_time-stage1_time))
+            stage2_time = time.time()
+            self.logger.print_info("locating all img src using %0.3f"%(stage2_time-stage1_time))
+        except Exception:
+            imgs_href = []
+        return imgs_href
+    
+    def spider_get_imgs_ok(self):
+        try:
+            start_time = time.time()
+            hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")
+            stage1_time = time.time()
+            self.logger.print_info("locating all hrefs using %0.3f"%(stage1_time-start_time))
+            imgs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]//img")
+            stage2_time = time.time()
+            self.logger.print_info("locating all imgs using %0.3f"%(stage2_time-stage1_time))
+        except Exception:
+            hrefs = []
+            imgs = []
+            imgs_href = []
+        try:
+            imgs_href = []
+            for (href, img) in zip(hrefs, imgs):
                 imgs_href.append((img.get_attribute('src'), href.get_attribute('href')))
+            self.logger.print_info("locating all img src using %0.3f"%(time.time()-start_time))
+        except Exception:
+            imgs_href = []
+            self.logger.print_error("differnet img and hrefs length: img num: %d, hrefs: %d"%(len(imgs), len(hrefs)))        
+        return imgs_href
+    
+    def spider_get_imgs_fail(self):
+        try:
+            start_time = time.time()
+            hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")
+            stage1_time = time.time()
+            self.logger.print_info("locating all hrefs using %0.3f"%(stage1_time-start_time))
+            imgs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]//img")
+            stage2_time = time.time()
+            self.logger.print_info("locating all imgs using %0.3f"%(stage2_time-stage1_time))
+        except Exception:
+            hrefs = []
+            imgs = []
+            imgs_href = []
+        try:
+            imgs_href = []
+            for (href, img) in zip(hrefs, imgs):
+                img_src = self.driver.execute_script("return arguments[0].src;", img)
+                href_src = self.driver.execute_script("return arguments[0].href;", href)
+                imgs_href.append((img_src, href_src))
+            self.logger.print_info("locating all img src using %0.3f"%(time.time()-start_time))
+        except Exception:
+            self.logger.print_error("differnet img and hrefs length: img num: %d, hrefs: %d"%(len(imgs), len(hrefs)))
+            imgs_href = self.spider_get_imgs_slow()   
         return imgs_href
     
     def spider_get_imgs_num(self):

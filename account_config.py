@@ -4,8 +4,10 @@ Created on 16 Nov 2016
 @author: mozat
 '''
 raw_accounts =  '''
-https://www.instagram.com/ootdmagazine/
-https://www.instagram.com/ootdsubmit/
+https://www.instagram.com/wendyslookbook/
+https://www.instagram.com/thesartorialist/
+https://www.instagram.com/solsolstreet/
+https://www.instagram.com/asianstreetfashion/
 https://www.instagram.com/majorstreetstyle/
 https://www.instagram.com/ootd.indonesiaa/
 https://www.instagram.com/streetmag/
@@ -56,6 +58,8 @@ https://www.instagram.com/anazsiantar
 https://www.instagram.com/kaillling
 https://www.instagram.com/cindytanjaya
 https://www.instagram.com/thehautepursuit
+https://www.instagram.com/ootdsubmit/
+https://www.instagram.com/ootdmagazine/
 '''
 
 

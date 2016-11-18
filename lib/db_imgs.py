@@ -31,7 +31,7 @@ class db_imgs(object):
                                                                  base_url = base_url))
         imgs_dict = {}
         for record in imgs_records:
-            imgs_dict[record['img_url']] = record['href']
+            imgs_dict[record['img_url']] = 0
         
         self.imgs_dicts[base_url] = imgs_dict
         return imgs_dict
@@ -51,13 +51,11 @@ class db_imgs(object):
                         
         imgs_dict = self.get_imgs(base_url)
         value_list = []
+        update_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         for (img_src, href) in crawl_list:
             if img_src in imgs_dict:
                 continue
             else:
-                update_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                sql = _sql_template.format(base_url = base_url, img_url = img_src, href = href, 
-                                           update_time = update_time)
                 imgs_dict[img_src] = href
                 value_list.append(value_template.format(base_url = base_url, 
                                                         img_url = img_src, 
