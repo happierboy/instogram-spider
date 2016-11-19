@@ -72,6 +72,7 @@ https://www.instagram.com/ootdmagazine/
 #     ]
 
 instogram_accounts = raw_accounts.split()
+# instogram_accounts.reverse()
 
 if __name__ == '__main__':
 #     print raw_accounts

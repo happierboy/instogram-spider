@@ -30,7 +30,9 @@ class spiders_urls(object):
             prefs = {"profile.managed_default_content_settings.images":2}
             chromeOptions.add_experimental_option("prefs",prefs)
             self.driver = webdriver.Chrome(chrome_options=chromeOptions)
+            self.process_elements = []
             self.spider_account(base_url)
+            self.process_elements = []
             self.driver.close()
             time.sleep(random.randint(30, 90))
             
@@ -144,16 +146,21 @@ class spiders_urls(object):
         try:
             imgs_href = []
             start_time = time.time()
-            hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")
+            hrefs = self.driver.find_elements_by_xpath("//div[@class='_nljxa']/div[@class='_myci9']/a[@href]")            
             stage1_time = time.time()
             self.logger.print_info("locating all hrefs using %0.3f"%(stage1_time-start_time))
-            for idx, href in enumerate(hrefs):
+            if self.process_elements: #reduce time
+                last_process_idx = self.process_elements[-1]
+            else:
+                last_process_idx = 0
+            for idx, href in enumerate(hrefs[last_process_idx:]):
                 img = href.find_element_by_xpath(".//img")
                 if img.get_attribute('src'):
                     imgs_href.append((img.get_attribute('src'), href.get_attribute('href')))
                 if idx%1001==1000:
                     stage2_time = time.time()
                     self.logger.print_info("locating 1000 hrefs using %0.3f"%(stage2_time-stage1_time))
+            self.process_elements.append(len(hrefs))
             stage2_time = time.time()
             self.logger.print_info("locating all img src using %0.3f"%(stage2_time-stage1_time))
         except Exception:
@@ -170,9 +177,7 @@ class spiders_urls(object):
             stage2_time = time.time()
             self.logger.print_info("locating all imgs using %0.3f"%(stage2_time-stage1_time))
         except Exception:
-            hrefs = []
-            imgs = []
-            imgs_href = []
+            hrefs = imgs = imgs_href = []
         try:
             imgs_href = []
             for (href, img) in zip(hrefs, imgs):
@@ -193,9 +198,7 @@ class spiders_urls(object):
             stage2_time = time.time()
             self.logger.print_info("locating all imgs using %0.3f"%(stage2_time-stage1_time))
         except Exception:
-            hrefs = []
-            imgs = []
-            imgs_href = []
+            hrefs = imgs = imgs_href = []
         try:
             imgs_href = []
             for (href, img) in zip(hrefs, imgs):
