@@ -3,11 +3,14 @@ Created on 16 Nov 2016
 
 @author: mozat
 '''
-raw_accounts =  '''
+finished = '''
 https://www.instagram.com/ashleighdmello
 https://www.instagram.com/petiteflowerpresents
 https://www.instagram.com/wendyslookbook/
 https://www.instagram.com/thesartorialist/
+'''
+raw_accounts =  '''
+https://www.instagram.com/ootdmagazine/
 https://www.instagram.com/solsolstreet/
 https://www.instagram.com/asianstreetfashion/
 https://www.instagram.com/majorstreetstyle/
@@ -59,7 +62,6 @@ https://www.instagram.com/kaillling
 https://www.instagram.com/cindytanjaya
 https://www.instagram.com/thehautepursuit
 https://www.instagram.com/ootdsubmit/
-https://www.instagram.com/ootdmagazine/
 '''
 
 instagram_accounts = raw_accounts.split()

@@ -26,7 +26,7 @@ class spiders_manager(object):
             self.spider_log.logger.info('finish crawl intagram account: %s with %d imgs'%(base_url, newin_number))
             finish_time = time.time()
             self.spider_log.logger.info('account: %s, usage: %0.3f, newin_num: %d'%(base_url, finish_time-start_time, newin_number))
-            time.sleep(self.spider_get_rest_time(finish_time-start_time))
+            time.sleep(self.spider_get_rest_time((finish_time-start_time)/60))
         
 
 if __name__ == '__main__':

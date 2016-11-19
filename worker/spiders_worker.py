@@ -38,7 +38,7 @@ class spiders_worker(object):
             if reload==True:
                 spiders_page2bottom(self.driver, self.base_url)._to_bottom(new_post_num)
             else:
-                spiders_page2bottom(self.driver, self.base_url)._to_bottom(new_post_num-last_post_num+100)
+                spiders_page2bottom(self.driver, self.base_url)._to_bottom(new_post_num-last_post_num)
             imgs_hrefs = self.spider_get_imgs()
             newin_number = self.db_imgs.update_instagramer_urls(self.base_url, imgs_hrefs)
             instagramer_info.posts = last_post_num + newin_number

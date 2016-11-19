@@ -24,30 +24,41 @@ class spiders_page2bottom(object):
     def _to_bottom(self, _to_bottom_num):
         unchange_time = 0
         self.spider_log.logger.info('start scroll down')
+        new_num = current_num = 24
         while True:
-            current_num = self.spider_get_imgnum()
+            current_num = new_num
             try:
-                for idx in range(0, random.randint(1,4)):
-                    scroll_len = random.randint(-200, -50)* min(math.ceil(math.sqrt(current_num)/15), 10)
-                    js = "window.scrollBy(0, %d)"%(scroll_len+idx)
+                scroll_times = max(int(math.ceil(current_num/250.0)),20)
+                for _ in range(scroll_times):
+                    for _ in range(4):
+                        interval_times = random.randint(int(math.ceil(scroll_times/4.0)), \
+                                                        int(math.ceil(scroll_times/2.0))+1)
+                        scroll_len = random.randint(-200, -50)* interval_times
+                        js = "window.scrollBy(0, %d)"%(scroll_len)
+                        self.driver.execute_script(js)
+                        time.sleep(random.uniform(0.2, 0.5))
+                    time.sleep(random.uniform(0.5, 1.5))
+                    js = "window.scrollTo(0, document.body.scrollHeight)"
                     self.driver.execute_script(js)
-                    time.sleep(0.3*math.ceil(current_num/1000))
-                time.sleep(random.randint(25, 75)/50.0)
-                js = "window.scrollTo(0, document.body.scrollHeight)"
-                self.driver.execute_script(js)
-                time.sleep(random.randint(25, 75)/50.0*math.ceil(current_num/5000))
-                self.spider_wait_morethan(current_num = current_num)
+                    time.sleep(random.uniform(0.5,1.5))      
             except Exception:
                 self.spider_log.logger.error('scroll failed')
                 
+            self.spider_wait_morethan(current_num = current_num)  
             new_num = self.spider_get_imgnum()
-            print self.base_url, str(current_num)
+            self.spider_log.logger.info('download %d from %s'%(new_num, self.base_url))
+            print self.base_url, str(new_num)
             if new_num == current_num:
                 unchange_time = unchange_time + 1
-                time.sleep(random.randint(25, 75)/50.0*math.ceil(current_num/1500))
+                time.sleep(random.uniform(0.5, 1.5))
             else:
-                unchange_time = 0   
-            if unchange_time > 10 or new_num>=_to_bottom_num:
+                unchange_time = 0  
+            if (unchange_time+1)%10==0:
+                time.sleep(random.randint(10, 20)) 
+            if unchange_time >= 30:
+                self.spider_log.logger.critical('error in account: %s'%(self.base_url))
+                raise Exception("error in account %s"%(self.base_url))
+            if new_num>=_to_bottom_num:
                 break
         self.spider_log.logger.info('finish scroll down with %d imgs'%(new_num))
     
