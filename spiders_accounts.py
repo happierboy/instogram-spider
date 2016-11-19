@@ -4,6 +4,8 @@ Created on 16 Nov 2016
 @author: mozat
 '''
 raw_accounts =  '''
+https://www.instagram.com/ashleighdmello
+https://www.instagram.com/petiteflowerpresents
 https://www.instagram.com/wendyslookbook/
 https://www.instagram.com/thesartorialist/
 https://www.instagram.com/solsolstreet/
@@ -17,8 +19,6 @@ https://www.instagram.com/hapatime
 https://www.instagram.com/alexcloset
 https://www.instagram.com/thestreetograph
 https://www.instagram.com/tlnique
-https://www.instagram.com/ashleighdmello
-https://www.instagram.com/petiteflowerpresents
 https://www.instagram.com/poppy_shmy
 https://www.instagram.com/streetstyled/
 https://www.instagram.com/streetper/
@@ -62,20 +62,11 @@ https://www.instagram.com/ootdsubmit/
 https://www.instagram.com/ootdmagazine/
 '''
 
-
-
-# instogram_accounts = [
-#     'https://www.instagram.com/wendyslookbook/',
-#     'https://www.instagram.com/thesartorialist/',
-#     'https://www.instagram.com/solsolstreet/',
-#     'https://www.instagram.com/asianstreetfashion/'    
-#     ]
-
-instogram_accounts = raw_accounts.split()
+instagram_accounts = raw_accounts.split()
+# instagram_accounts = instagram_accounts[0:2]
 # instogram_accounts.reverse()
 
 if __name__ == '__main__':
-#     print raw_accounts
     accounts = raw_accounts.split()
     print len(accounts)
     for idx, account in enumerate(accounts):

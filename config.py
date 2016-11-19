@@ -2,18 +2,11 @@
 
 __author__ = 'ZHANGLI'
 
-
-URLS_FILE = 'file/urls.txt'
-
-PAGE = 30
-
 TIMEOUT = 5
 
 MAX_SCROLL_TIME = 10
 
-CONTENT = ''
-
-ANONYMOUS_STR = '***'
+ACCOUNT_SLEEP_INTERVAL = 60 #EVERY 60, WE SLEEP 1 MINUTES
 
 
 INSTOGRAM_SCHEMA = {
@@ -22,5 +15,5 @@ INSTOGRAM_SCHEMA = {
     'port': '3306',
     'username': 'root',
     'password': 'root',
-    'database': 'spider_instogram'
+    'database': 'spider_instagram'
     }

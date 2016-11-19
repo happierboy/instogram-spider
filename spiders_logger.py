@@ -9,13 +9,24 @@ import os
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
-class spider_logger(object):
+def singleton(cls):
+    instances = {}
+    def getinstance():
+        if cls not in instances:
+            instances[cls] = cls()
+        return instances[cls]
+    return getinstance
+
+@singleton
+class spiders_logger(object):
+    _instance = None
     def __init__(self, filename = 'spider_instogram.log'):
         self.logger_name = self.__class__.__name__
         self.logger = logging.getLogger(self.logger_name)
         self.logger.setLevel(logging.DEBUG)
+        self.logger.propagate = False
         
-        log_path = os.path.join(os.path.join(base_dir, '../log'), filename)
+        log_path = os.path.join(os.path.join(base_dir, 'log'), filename)
         self.fh = logging.FileHandler(log_path)
         self.fh.setLevel(logging.DEBUG)
         
@@ -25,7 +36,7 @@ class spider_logger(object):
         
         self.fh.setFormatter(formatter)
         self.logger.addHandler(self.fh)
-        
+    
     def print_debug(self, msg):
         self.logger.debug(msg)
     
@@ -43,7 +54,7 @@ class spider_logger(object):
 
 
 if __name__ == '__main__':
-    sl = spider_logger('test.log')
+    sl = spiders_logger('test.log')
     sl.print_debug('debug')
     sl.print_info('info')
     sl.print_warn('warn')

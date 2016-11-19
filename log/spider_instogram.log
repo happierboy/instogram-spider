@@ -1,0 +1,10 @@
+Sat 19 Nov 2016 19:39:17 INFO spiders_manager.py 23 15975 start crawl intagram account: https://www.instagram.com/ashleighdmello
+Sat 19 Nov 2016 19:39:17 INFO spiders_initial_driver.py 17 15975 initial driver
+Sat 19 Nov 2016 19:39:22 INFO spiders_click_morebutton.py 26 15975 clicked load more button
+Sat 19 Nov 2016 19:39:22 INFO spiders_scrolldown_page.py 26 15975 start scroll down
+Sat 19 Nov 2016 19:39:31 INFO spiders_scrolldown_page.py 52 15975 finish scroll down with 108 imgs
+Sat 19 Nov 2016 19:39:31 INFO spiders_worker.py 63 15975 locating all hrefs using 0.007
+Sat 19 Nov 2016 19:39:31 INFO spiders_worker.py 65 15975 locating all imgs and hrefs using 0.026
+Sat 19 Nov 2016 19:39:33 INFO spiders_worker.py 69 15975 getting all imgs with hrefs using 2.020
+Sat 19 Nov 2016 19:39:33 INFO spiders_manager.py 26 15975 finish crawl intagram account: https://www.instagram.com/ashleighdmello with 0 imgs
+Sat 19 Nov 2016 19:39:33 INFO spiders_manager.py 28 15975 account: https://www.instagram.com/ashleighdmello, usage: 16.092, newin_num: 0

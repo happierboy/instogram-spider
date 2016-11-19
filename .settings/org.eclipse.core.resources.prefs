@@ -1,4 +1,4 @@
 eclipse.preferences.version=1
-encoding//lib/spiders_urls.py=utf-8
+encoding//worker/spiders_worker.py=utf-8
 encoding/config.py=utf-8
-encoding/spiders_selenium.py=utf-8
+encoding/spiders_manager.py=utf-8
