@@ -60,10 +60,11 @@ class spiders_page2bottom(object):
                 raise Exception("error in account %s"%(self.base_url))
             if new_num>=_to_bottom_num:
                 break
-            if new_num>= _to_bottom_num-5 and unchange_time>=10:
+            if new_num>= _to_bottom_num-5 and unchange_time>=5:
                 self.spider_log.logger.critical(\
                                                 'error in account: %s, posts %d imgs but only gets %d imgs'%\
                                                 (self.base_url, _to_bottom_num, new_num))
+                break
                 
         self.spider_log.logger.info('finish scroll down: %d imgs in %s'%(new_num, self.base_url))
     

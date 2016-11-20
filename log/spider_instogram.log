@@ -507,31 +507,9 @@ Sun 20 Nov 2016 09:39:11 INFO spiders_worker.py 65 27635 locating all imgs and h
 Sun 20 Nov 2016 09:40:11 INFO spiders_worker.py 69 27635 getting all imgs with hrefs using 60.261
 Sun 20 Nov 2016 09:40:11 INFO spiders_manager.py 26 27635 finish crawl intagram account: https://www.instagram.com/imjennim with 1937 imgs
 Sun 20 Nov 2016 09:40:11 INFO spiders_manager.py 28 27635 account: https://www.instagram.com/imjennim, usage: 623.402, newin_num: 1937
-Sun 20 Nov 2016 09:41:12 INFO spiders_manager.py 23 27635 start crawl intagram account: https://www.instagram.com/alealimay
-Sun 20 Nov 2016 09:41:12 INFO spiders_initial_driver.py 17 27635 initial driver
-Sun 20 Nov 2016 09:41:18 INFO spiders_click_morebutton.py 26 27635 clicked load more button
-Sun 20 Nov 2016 09:41:18 INFO spiders_scrolldown_page.py 26 27635 start scroll down
-Sun 20 Nov 2016 09:42:28 INFO spiders_scrolldown_page.py 49 27635 download 264 from https://www.instagram.com/alealimay
-Sun 20 Nov 2016 09:43:38 INFO spiders_scrolldown_page.py 49 27635 download 504 from https://www.instagram.com/alealimay
-Sun 20 Nov 2016 09:44:50 INFO spiders_scrolldown_page.py 49 27635 download 744 from https://www.instagram.com/alealimay
-Sun 20 Nov 2016 09:45:56 INFO spiders_scrolldown_page.py 49 27635 download 984 from https://www.instagram.com/alealimay
-Sun 20 Nov 2016 10:56:52 INFO spiders_manager.py 23 8521 start crawl intagram account: https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 10:56:52 INFO spiders_initial_driver.py 17 8521 initial driver
-Sun 20 Nov 2016 10:56:58 INFO spiders_click_morebutton.py 26 8521 clicked load more button
-Sun 20 Nov 2016 10:56:58 INFO spiders_manager.py 26 8521 finish crawl intagram account: https://www.instagram.com/littleblackboots with 0 imgs
-Sun 20 Nov 2016 10:56:58 INFO spiders_manager.py 28 8521 account: https://www.instagram.com/littleblackboots, usage: 5.754, newin_num: 0
-Sun 20 Nov 2016 10:58:25 INFO spiders_manager.py 23 8734 start crawl intagram account: https://www.instagram.com/littleblackboots
-
-Sun 20 Nov 2016 11:00:21 INFO spiders_manager.py 23 9075 start crawl intagram account: https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:00:21 INFO spiders_initial_driver.py 17 9075 initial driver
-Sun 20 Nov 2016 11:00:26 INFO spiders_click_morebutton.py 26 9075 clicked load more button
-Sun 20 Nov 2016 11:00:26 INFO spiders_scrolldown_page.py 26 9075 start scroll down: targeting 2219 imgs in https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:01:33 INFO spiders_scrolldown_page.py 49 9075 download 264 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:02:42 INFO spiders_scrolldown_page.py 49 9075 download 504 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:03:51 INFO spiders_scrolldown_page.py 49 9075 download 744 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:05:00 INFO spiders_scrolldown_page.py 49 9075 download 984 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:06:10 INFO spiders_scrolldown_page.py 49 9075 download 1224 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:07:18 INFO spiders_scrolldown_page.py 49 9075 download 1464 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:08:26 INFO spiders_scrolldown_page.py 49 9075 download 1704 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:09:35 INFO spiders_scrolldown_page.py 49 9075 download 1944 from https://www.instagram.com/littleblackboots
-Sun 20 Nov 2016 11:10:45 INFO spiders_scrolldown_page.py 49 9075 download 2184 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 11:18:04 INFO spiders_manager.py 23 9708 start crawl intagram account: https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 11:18:04 INFO spiders_initial_driver.py 17 9708 initial driver
+Sun 20 Nov 2016 11:18:10 INFO spiders_click_morebutton.py 26 9708 clicked load more button
+Sun 20 Nov 2016 11:18:10 INFO spiders_scrolldown_page.py 26 9708 start scroll down: targeting 2219 imgs in https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 11:19:19 INFO spiders_scrolldown_page.py 49 9708 download 264 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 11:20:25 INFO spiders_scrolldown_page.py 49 9708 download 504 from https://www.instagram.com/littleblackboots
