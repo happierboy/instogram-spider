@@ -23,7 +23,7 @@ class spiders_page2bottom(object):
     
     def _to_bottom(self, _to_bottom_num):
         unchange_time = 0
-        self.spider_log.logger.info('start scroll down')
+        self.spider_log.logger.info('start scroll down: targeting %d imgs in %s'%(_to_bottom_num, self.base_url))
         new_num = current_num = 24
         while True:
             current_num = new_num
@@ -60,7 +60,12 @@ class spiders_page2bottom(object):
                 raise Exception("error in account %s"%(self.base_url))
             if new_num>=_to_bottom_num:
                 break
-        self.spider_log.logger.info('finish scroll down with %d imgs'%(new_num))
+            if new_num>= _to_bottom_num-5 and unchange_time>=10:
+                self.spider_log.logger.critical(\
+                                                'error in account: %s, posts %d imgs but only gets %d imgs'%\
+                                                (self.base_url, _to_bottom_num, new_num))
+                
+        self.spider_log.logger.info('finish scroll down: %d imgs in %s'%(new_num, self.base_url))
     
     def spider_get_imgnum(self):
         try:

@@ -8,8 +8,6 @@ https://www.instagram.com/ashleighdmello
 https://www.instagram.com/petiteflowerpresents
 https://www.instagram.com/wendyslookbook/
 https://www.instagram.com/thesartorialist/
-'''
-raw_accounts =  '''
 https://www.instagram.com/ootdmagazine/
 https://www.instagram.com/solsolstreet/
 https://www.instagram.com/asianstreetfashion/
@@ -28,17 +26,7 @@ https://www.instagram.com/streetper/
 https://www.instagram.com/songofstyle
 https://www.instagram.com/chrisellelim
 https://www.instagram.com/imjennim
-https://www.instagram.com/alealimay
-https://www.instagram.com/chiaraferragni/
-https://www.instagram.com/queenhorsfall
-https://www.instagram.com/yunastyle
-https://www.instagram.com/halopeoplekr
-https://www.instagram.com/jdinkoreasince2012
-https://www.instagram.com/realstreet1
-https://www.instagram.com/beeswonderland
-https://www.instagram.com/daphnemodeandthecity
 https://www.instagram.com/rumineely
-https://www.instagram.com/littleblackboots
 https://www.instagram.com/streetstyle
 https://www.instagram.com/yoyokulala
 https://www.instagram.com/evangelineyan
@@ -62,6 +50,18 @@ https://www.instagram.com/kaillling
 https://www.instagram.com/cindytanjaya
 https://www.instagram.com/thehautepursuit
 https://www.instagram.com/ootdsubmit/
+'''
+raw_accounts =  '''
+https://www.instagram.com/littleblackboots
+https://www.instagram.com/alealimay
+https://www.instagram.com/chiaraferragni/
+https://www.instagram.com/queenhorsfall
+https://www.instagram.com/yunastyle
+https://www.instagram.com/halopeoplekr
+https://www.instagram.com/jdinkoreasince2012
+https://www.instagram.com/realstreet1
+https://www.instagram.com/beeswonderland
+https://www.instagram.com/daphnemodeandthecity
 '''
 
 instagram_accounts = raw_accounts.split()

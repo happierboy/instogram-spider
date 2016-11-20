@@ -1,0 +1,555 @@
+Sun 20 Nov 2016 03:19:26 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:19:27 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 03:19:33 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 03:19:33 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 03:20:44 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:21:55 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:23:02 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:24:11 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:25:21 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:26:29 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:27:38 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:28:48 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:29:56 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:31:07 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:32:19 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:33:33 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:34:47 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:36:03 INFO spiders_scrolldown_page.py 49 4136 download 3384 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:37:15 INFO spiders_scrolldown_page.py 49 4136 download 3624 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:38:32 INFO spiders_scrolldown_page.py 49 4136 download 3864 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:39:46 INFO spiders_scrolldown_page.py 49 4136 download 4104 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:41:02 INFO spiders_scrolldown_page.py 49 4136 download 4344 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:42:17 INFO spiders_scrolldown_page.py 49 4136 download 4584 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:43:29 INFO spiders_scrolldown_page.py 49 4136 download 4824 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:44:50 INFO spiders_scrolldown_page.py 49 4136 download 5064 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:46:11 INFO spiders_scrolldown_page.py 49 4136 download 5316 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:47:35 INFO spiders_scrolldown_page.py 49 4136 download 5580 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:49:05 INFO spiders_scrolldown_page.py 49 4136 download 5856 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:50:37 INFO spiders_scrolldown_page.py 49 4136 download 6144 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:52:13 INFO spiders_scrolldown_page.py 49 4136 download 6444 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:53:56 INFO spiders_scrolldown_page.py 49 4136 download 6756 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:55:49 INFO spiders_scrolldown_page.py 49 4136 download 7092 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:57:44 INFO spiders_scrolldown_page.py 49 4136 download 7440 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 03:59:43 INFO spiders_scrolldown_page.py 49 4136 download 7800 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:01:55 INFO spiders_scrolldown_page.py 49 4136 download 8184 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:04:10 INFO spiders_scrolldown_page.py 49 4136 download 8580 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:06:35 INFO spiders_scrolldown_page.py 49 4136 download 9000 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:09:07 INFO spiders_scrolldown_page.py 49 4136 download 9432 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:11:50 INFO spiders_scrolldown_page.py 49 4136 download 9888 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:14:39 INFO spiders_scrolldown_page.py 49 4136 download 10368 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:17:34 INFO spiders_scrolldown_page.py 49 4136 download 10738 from https://www.instagram.com/ootdsubmit/
+Sun 20 Nov 2016 04:17:34 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 10738 imgs
+Sun 20 Nov 2016 04:17:48 INFO spiders_worker.py 63 4136 locating all hrefs using 13.209
+Sun 20 Nov 2016 04:18:13 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 38.492
+Sun 20 Nov 2016 04:34:02 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 987.389
+Sun 20 Nov 2016 04:34:07 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/ootdsubmit/ with 10738 imgs
+Sun 20 Nov 2016 04:34:07 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/ootdsubmit/, usage: 4480.409, newin_num: 10738
+Sun 20 Nov 2016 04:35:01 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:35:01 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 04:35:07 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 04:35:07 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 04:36:16 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:37:23 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:38:30 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:39:40 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:40:51 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:42:05 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:43:15 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:44:30 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:45:39 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:46:47 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:47:57 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:49:09 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:50:26 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:51:38 INFO spiders_scrolldown_page.py 49 4136 download 3384 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:52:49 INFO spiders_scrolldown_page.py 49 4136 download 3624 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:54:00 INFO spiders_scrolldown_page.py 49 4136 download 3864 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:55:14 INFO spiders_scrolldown_page.py 49 4136 download 4012 from https://www.instagram.com/thehautepursuit
+Sun 20 Nov 2016 04:55:14 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 4012 imgs
+Sun 20 Nov 2016 04:55:16 INFO spiders_worker.py 63 4136 locating all hrefs using 2.006
+Sun 20 Nov 2016 04:55:19 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 5.252
+Sun 20 Nov 2016 04:58:09 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 175.527
+Sun 20 Nov 2016 04:58:10 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/thehautepursuit with 4012 imgs
+Sun 20 Nov 2016 04:58:10 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/thehautepursuit, usage: 1389.557, newin_num: 4012
+Sun 20 Nov 2016 04:59:16 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/cindytanjaya
+Sun 20 Nov 2016 04:59:17 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 04:59:22 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 04:59:22 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 05:00:32 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/cindytanjaya
+Sun 20 Nov 2016 05:01:43 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/cindytanjaya
+Sun 20 Nov 2016 05:02:50 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/cindytanjaya
+Sun 20 Nov 2016 05:04:00 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/cindytanjaya
+Sun 20 Nov 2016 05:05:07 INFO spiders_scrolldown_page.py 49 4136 download 1016 from https://www.instagram.com/cindytanjaya
+Sun 20 Nov 2016 05:05:07 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1016 imgs
+Sun 20 Nov 2016 05:05:07 INFO spiders_worker.py 63 4136 locating all hrefs using 0.123
+Sun 20 Nov 2016 05:05:07 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.425
+Sun 20 Nov 2016 05:05:30 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 23.276
+Sun 20 Nov 2016 05:05:30 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/cindytanjaya with 1016 imgs
+Sun 20 Nov 2016 05:05:30 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/cindytanjaya, usage: 374.074, newin_num: 1016
+Sun 20 Nov 2016 05:06:25 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/kaillling
+Sun 20 Nov 2016 05:06:26 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 05:06:31 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 05:06:31 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 05:07:42 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/kaillling
+Sun 20 Nov 2016 05:08:48 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/kaillling
+Sun 20 Nov 2016 05:09:58 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/kaillling
+Sun 20 Nov 2016 05:11:10 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/kaillling
+Sun 20 Nov 2016 05:12:20 INFO spiders_scrolldown_page.py 49 4136 download 1007 from https://www.instagram.com/kaillling
+Sun 20 Nov 2016 05:12:20 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1007 imgs
+Sun 20 Nov 2016 05:12:20 INFO spiders_worker.py 63 4136 locating all hrefs using 0.118
+Sun 20 Nov 2016 05:12:21 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.342
+Sun 20 Nov 2016 05:12:43 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 22.956
+Sun 20 Nov 2016 05:12:44 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/kaillling with 1007 imgs
+Sun 20 Nov 2016 05:12:44 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/kaillling, usage: 378.344, newin_num: 1007
+Sun 20 Nov 2016 05:13:53 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:13:53 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 05:13:59 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 05:13:59 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 05:15:09 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:16:17 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:17:30 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:18:41 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:19:54 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:21:03 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:22:12 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:23:22 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:24:32 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:25:45 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:26:54 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:28:05 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:29:18 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:30:27 INFO spiders_scrolldown_page.py 49 4136 download 3384 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:31:43 INFO spiders_scrolldown_page.py 49 4136 download 3604 from https://www.instagram.com/anazsiantar
+Sun 20 Nov 2016 05:31:43 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 3604 imgs
+Sun 20 Nov 2016 05:31:44 INFO spiders_worker.py 63 4136 locating all hrefs using 1.644
+Sun 20 Nov 2016 05:31:47 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 4.302
+Sun 20 Nov 2016 05:34:12 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 149.495
+Sun 20 Nov 2016 05:34:13 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/anazsiantar with 3604 imgs
+Sun 20 Nov 2016 05:34:13 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/anazsiantar, usage: 1220.178, newin_num: 3604
+Sun 20 Nov 2016 05:35:21 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:35:21 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 05:35:27 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 05:35:27 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 05:36:36 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:37:44 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:38:52 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:40:01 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:41:10 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:42:20 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:43:28 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:44:36 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:45:44 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:46:57 INFO spiders_scrolldown_page.py 49 4136 download 2297 from https://www.instagram.com/dreachong
+Sun 20 Nov 2016 05:46:57 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 2297 imgs
+Sun 20 Nov 2016 05:46:58 INFO spiders_worker.py 63 4136 locating all hrefs using 0.602
+Sun 20 Nov 2016 05:46:59 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 1.710
+Sun 20 Nov 2016 05:48:12 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 74.880
+Sun 20 Nov 2016 05:48:13 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/dreachong with 2297 imgs
+Sun 20 Nov 2016 05:48:13 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/dreachong, usage: 771.724, newin_num: 2297
+Sun 20 Nov 2016 05:49:17 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/jenniferwhwang
+Sun 20 Nov 2016 05:49:17 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 05:49:23 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 05:49:23 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 05:50:34 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/jenniferwhwang
+Sun 20 Nov 2016 05:51:43 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/jenniferwhwang
+Sun 20 Nov 2016 05:52:53 INFO spiders_scrolldown_page.py 49 4136 download 511 from https://www.instagram.com/jenniferwhwang
+Sun 20 Nov 2016 05:52:53 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 511 imgs
+Sun 20 Nov 2016 05:52:53 INFO spiders_worker.py 63 4136 locating all hrefs using 0.046
+Sun 20 Nov 2016 05:52:53 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.142
+Sun 20 Nov 2016 05:53:03 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 10.121
+Sun 20 Nov 2016 05:53:03 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/jenniferwhwang with 511 imgs
+Sun 20 Nov 2016 05:53:03 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/jenniferwhwang, usage: 226.367, newin_num: 511
+Sun 20 Nov 2016 05:53:58 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 05:53:58 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 05:54:04 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 05:54:04 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 05:55:14 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 05:56:20 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 05:57:29 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 05:58:38 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 05:59:44 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:00:49 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:02:00 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:03:11 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:04:17 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:05:25 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:06:39 INFO spiders_scrolldown_page.py 49 4136 download 2460 from https://www.instagram.com/itsfranxcesca
+Sun 20 Nov 2016 06:06:39 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 2460 imgs
+Sun 20 Nov 2016 06:06:40 INFO spiders_worker.py 63 4136 locating all hrefs using 0.686
+Sun 20 Nov 2016 06:06:41 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 2.069
+Sun 20 Nov 2016 06:08:03 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 83.780
+Sun 20 Nov 2016 06:08:03 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/itsfranxcesca with 2460 imgs
+Sun 20 Nov 2016 06:08:03 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/itsfranxcesca, usage: 845.208, newin_num: 2460
+Sun 20 Nov 2016 06:09:09 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:09:10 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 06:09:14 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 06:09:14 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 06:10:20 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:11:30 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:12:36 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:13:45 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:14:54 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:16:06 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:17:15 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:18:22 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:19:31 INFO spiders_scrolldown_page.py 49 4136 download 2148 from https://www.instagram.com/violettedaily
+Sun 20 Nov 2016 06:19:31 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 2148 imgs
+Sun 20 Nov 2016 06:19:32 INFO spiders_worker.py 63 4136 locating all hrefs using 0.659
+Sun 20 Nov 2016 06:19:33 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 1.628
+Sun 20 Nov 2016 06:20:38 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 66.498
+Sun 20 Nov 2016 06:20:38 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/violettedaily with 2148 imgs
+Sun 20 Nov 2016 06:20:38 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/violettedaily, usage: 689.011, newin_num: 2148
+Sun 20 Nov 2016 06:21:48 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/forevervanny
+Sun 20 Nov 2016 06:21:49 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 06:21:53 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 06:21:53 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 06:23:03 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/forevervanny
+Sun 20 Nov 2016 06:24:12 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/forevervanny
+Sun 20 Nov 2016 06:25:22 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/forevervanny
+Sun 20 Nov 2016 06:26:33 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/forevervanny
+Sun 20 Nov 2016 06:27:44 INFO spiders_scrolldown_page.py 49 4136 download 1174 from https://www.instagram.com/forevervanny
+Sun 20 Nov 2016 06:27:44 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1174 imgs
+Sun 20 Nov 2016 06:27:44 INFO spiders_worker.py 63 4136 locating all hrefs using 0.159
+Sun 20 Nov 2016 06:27:44 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.456
+Sun 20 Nov 2016 06:28:12 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 27.950
+Sun 20 Nov 2016 06:28:12 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/forevervanny with 1174 imgs
+Sun 20 Nov 2016 06:28:12 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/forevervanny, usage: 383.744, newin_num: 1174
+Sun 20 Nov 2016 06:29:18 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:29:18 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 06:29:25 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 06:29:25 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 06:30:35 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:31:43 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:32:56 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:34:06 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:35:18 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:36:28 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:37:41 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:38:52 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:40:02 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:41:09 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:42:20 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:43:33 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:44:45 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:45:56 INFO spiders_scrolldown_page.py 49 4136 download 3220 from https://www.instagram.com/olivialazuardy
+Sun 20 Nov 2016 06:45:56 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 3220 imgs
+Sun 20 Nov 2016 06:45:57 INFO spiders_worker.py 63 4136 locating all hrefs using 1.318
+Sun 20 Nov 2016 06:45:59 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 3.408
+Sun 20 Nov 2016 06:47:58 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 122.513
+Sun 20 Nov 2016 06:47:59 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/olivialazuardy with 3220 imgs
+Sun 20 Nov 2016 06:47:59 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/olivialazuardy, usage: 1120.789, newin_num: 3220
+Sun 20 Nov 2016 06:48:59 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:48:59 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 06:49:04 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 06:49:04 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 06:50:19 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:51:25 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:52:33 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:53:42 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:54:56 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:56:06 INFO spiders_scrolldown_page.py 49 4136 download 1365 from https://www.instagram.com/skinnyspy
+Sun 20 Nov 2016 06:56:06 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1365 imgs
+Sun 20 Nov 2016 06:56:06 INFO spiders_worker.py 63 4136 locating all hrefs using 0.244
+Sun 20 Nov 2016 06:56:07 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.636
+Sun 20 Nov 2016 06:56:41 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 34.768
+Sun 20 Nov 2016 06:56:42 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/skinnyspy with 1365 imgs
+Sun 20 Nov 2016 06:56:42 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/skinnyspy, usage: 463.099, newin_num: 1365
+Sun 20 Nov 2016 06:57:51 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 06:57:51 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 06:57:58 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 06:57:58 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 06:59:05 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:00:15 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:01:28 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:02:36 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:03:50 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:04:55 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:06:02 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:07:14 INFO spiders_scrolldown_page.py 49 4136 download 1856 from https://www.instagram.com/audreyxaudrey
+Sun 20 Nov 2016 07:07:14 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1856 imgs
+Sun 20 Nov 2016 07:07:14 INFO spiders_worker.py 63 4136 locating all hrefs using 0.409
+Sun 20 Nov 2016 07:07:15 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 1.219
+Sun 20 Nov 2016 07:08:06 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 52.490
+Sun 20 Nov 2016 07:08:07 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/audreyxaudrey with 1856 imgs
+Sun 20 Nov 2016 07:08:07 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/audreyxaudrey, usage: 615.594, newin_num: 1856
+Sun 20 Nov 2016 07:08:58 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:08:58 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 07:09:03 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 07:09:03 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 07:10:13 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:11:24 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:12:33 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:13:40 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:14:53 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:16:00 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:17:09 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:18:19 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:19:33 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:20:47 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:21:58 INFO spiders_scrolldown_page.py 49 4136 download 2645 from https://www.instagram.com/savoirsam
+Sun 20 Nov 2016 07:21:58 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 2645 imgs
+Sun 20 Nov 2016 07:21:59 INFO spiders_worker.py 63 4136 locating all hrefs using 0.908
+Sun 20 Nov 2016 07:22:00 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 2.344
+Sun 20 Nov 2016 07:23:29 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 91.551
+Sun 20 Nov 2016 07:23:30 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/savoirsam with 2645 imgs
+Sun 20 Nov 2016 07:23:30 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/savoirsam, usage: 872.236, newin_num: 2645
+Sun 20 Nov 2016 07:24:37 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:24:37 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 07:24:42 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 07:24:42 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 07:25:50 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:26:59 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:28:09 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:29:18 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:30:30 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:31:41 INFO spiders_scrolldown_page.py 49 4136 download 1227 from https://www.instagram.com/karenngkarenng
+Sun 20 Nov 2016 07:31:41 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1227 imgs
+Sun 20 Nov 2016 07:31:41 INFO spiders_worker.py 63 4136 locating all hrefs using 0.232
+Sun 20 Nov 2016 07:31:42 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.577
+Sun 20 Nov 2016 07:32:11 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 29.840
+Sun 20 Nov 2016 07:32:11 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/karenngkarenng with 1227 imgs
+Sun 20 Nov 2016 07:32:11 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/karenngkarenng, usage: 454.560, newin_num: 1227
+Sun 20 Nov 2016 07:33:20 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:33:21 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 07:33:27 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 07:33:27 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 07:34:35 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:35:40 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:36:49 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:37:59 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:39:10 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:40:20 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:41:30 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:42:36 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:43:49 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:45:02 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:46:10 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:47:22 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:48:32 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:49:43 INFO spiders_scrolldown_page.py 49 4136 download 3246 from https://www.instagram.com/rchlwngxx
+Sun 20 Nov 2016 07:49:43 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 3246 imgs
+Sun 20 Nov 2016 07:49:45 INFO spiders_worker.py 63 4136 locating all hrefs using 1.353
+Sun 20 Nov 2016 07:49:47 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 3.476
+Sun 20 Nov 2016 07:51:50 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 126.259
+Sun 20 Nov 2016 07:51:50 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/rchlwngxx with 3246 imgs
+Sun 20 Nov 2016 07:51:50 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/rchlwngxx, usage: 1109.863, newin_num: 3246
+Sun 20 Nov 2016 07:52:56 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/chrisaliescorners
+Sun 20 Nov 2016 07:52:56 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 07:53:01 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 07:53:01 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 07:54:08 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/chrisaliescorners
+Sun 20 Nov 2016 07:55:20 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/chrisaliescorners
+Sun 20 Nov 2016 07:56:32 INFO spiders_scrolldown_page.py 49 4136 download 683 from https://www.instagram.com/chrisaliescorners
+Sun 20 Nov 2016 07:56:32 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 683 imgs
+Sun 20 Nov 2016 07:56:32 INFO spiders_worker.py 63 4136 locating all hrefs using 0.055
+Sun 20 Nov 2016 07:56:32 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.169
+Sun 20 Nov 2016 07:56:46 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 14.269
+Sun 20 Nov 2016 07:56:46 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/chrisaliescorners with 683 imgs
+Sun 20 Nov 2016 07:56:46 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/chrisaliescorners, usage: 230.063, newin_num: 683
+Sun 20 Nov 2016 07:57:47 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/emilythemermaid
+Sun 20 Nov 2016 07:57:47 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 07:57:53 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 07:57:53 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 07:59:04 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/emilythemermaid
+Sun 20 Nov 2016 08:00:14 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/emilythemermaid
+Sun 20 Nov 2016 08:01:24 INFO spiders_scrolldown_page.py 49 4136 download 645 from https://www.instagram.com/emilythemermaid
+Sun 20 Nov 2016 08:01:24 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 645 imgs
+Sun 20 Nov 2016 08:01:24 INFO spiders_worker.py 63 4136 locating all hrefs using 0.044
+Sun 20 Nov 2016 08:01:24 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.158
+Sun 20 Nov 2016 08:01:37 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 13.248
+Sun 20 Nov 2016 08:01:37 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/emilythemermaid with 645 imgs
+Sun 20 Nov 2016 08:01:37 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/emilythemermaid, usage: 229.936, newin_num: 645
+Sun 20 Nov 2016 08:02:34 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:02:34 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 08:02:40 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 08:02:40 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 08:03:49 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:04:57 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:06:04 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:07:11 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:08:17 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:09:26 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:10:36 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:11:44 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:12:53 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:14:05 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:15:17 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:16:27 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:17:40 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:18:54 INFO spiders_scrolldown_page.py 49 4136 download 3384 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:20:06 INFO spiders_scrolldown_page.py 49 4136 download 3624 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:21:17 INFO spiders_scrolldown_page.py 49 4136 download 3864 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:22:29 INFO spiders_scrolldown_page.py 49 4136 download 4104 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:23:45 INFO spiders_scrolldown_page.py 49 4136 download 4344 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:24:59 INFO spiders_scrolldown_page.py 49 4136 download 4584 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:26:19 INFO spiders_scrolldown_page.py 49 4136 download 4824 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:27:32 INFO spiders_scrolldown_page.py 49 4136 download 4862 from https://www.instagram.com/songdani
+Sun 20 Nov 2016 08:27:32 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 4862 imgs
+Sun 20 Nov 2016 08:27:36 INFO spiders_worker.py 63 4136 locating all hrefs using 3.173
+Sun 20 Nov 2016 08:27:41 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 8.154
+Sun 20 Nov 2016 08:31:38 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 245.959
+Sun 20 Nov 2016 08:31:40 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/songdani with 4862 imgs
+Sun 20 Nov 2016 08:31:40 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/songdani, usage: 1745.347, newin_num: 4862
+Sun 20 Nov 2016 08:32:35 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:32:35 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 08:32:41 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 08:32:41 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 08:33:54 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:35:03 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:36:12 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:37:23 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:38:34 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:39:43 INFO spiders_scrolldown_page.py 49 4136 download 1296 from https://www.instagram.com/cherriemun_
+Sun 20 Nov 2016 08:39:43 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1296 imgs
+Sun 20 Nov 2016 08:39:44 INFO spiders_worker.py 63 4136 locating all hrefs using 0.263
+Sun 20 Nov 2016 08:39:44 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.637
+Sun 20 Nov 2016 08:40:15 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 31.814
+Sun 20 Nov 2016 08:40:16 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/cherriemun_ with 1296 imgs
+Sun 20 Nov 2016 08:40:16 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/cherriemun_, usage: 461.139, newin_num: 1296
+Sun 20 Nov 2016 08:41:10 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:41:10 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 08:41:16 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 08:41:16 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 08:42:27 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:43:37 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:44:44 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:45:52 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:47:04 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:48:14 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:49:21 INFO spiders_scrolldown_page.py 49 4136 download 1569 from https://www.instagram.com/evangelineyan
+Sun 20 Nov 2016 08:49:21 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1569 imgs
+Sun 20 Nov 2016 08:49:22 INFO spiders_worker.py 63 4136 locating all hrefs using 0.301
+Sun 20 Nov 2016 08:49:22 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.828
+Sun 20 Nov 2016 08:50:03 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 41.981
+Sun 20 Nov 2016 08:50:04 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/evangelineyan with 1569 imgs
+Sun 20 Nov 2016 08:50:04 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/evangelineyan, usage: 534.028, newin_num: 1569
+Sun 20 Nov 2016 08:51:07 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:51:07 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 08:51:14 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 08:51:14 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 08:52:25 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:53:33 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:54:42 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:55:54 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:57:04 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:58:16 INFO spiders_scrolldown_page.py 49 4136 download 1322 from https://www.instagram.com/yoyokulala
+Sun 20 Nov 2016 08:58:16 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 1322 imgs
+Sun 20 Nov 2016 08:58:16 INFO spiders_worker.py 63 4136 locating all hrefs using 0.216
+Sun 20 Nov 2016 08:58:17 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.596
+Sun 20 Nov 2016 08:58:49 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 32.798
+Sun 20 Nov 2016 08:58:49 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/yoyokulala with 1322 imgs
+Sun 20 Nov 2016 08:58:49 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/yoyokulala, usage: 462.446, newin_num: 1322
+Sun 20 Nov 2016 08:59:58 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/streetstyle
+Sun 20 Nov 2016 08:59:58 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 09:00:05 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 09:00:05 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 09:01:11 INFO spiders_scrolldown_page.py 49 4136 download 74 from https://www.instagram.com/streetstyle
+Sun 20 Nov 2016 09:01:11 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 74 imgs
+Sun 20 Nov 2016 09:01:11 INFO spiders_worker.py 63 4136 locating all hrefs using 0.007
+Sun 20 Nov 2016 09:01:11 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 0.023
+Sun 20 Nov 2016 09:01:13 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 1.292
+Sun 20 Nov 2016 09:01:13 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/streetstyle with 74 imgs
+Sun 20 Nov 2016 09:01:13 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/streetstyle, usage: 74.861, newin_num: 74
+Sun 20 Nov 2016 09:02:06 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:02:06 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 09:02:13 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 09:02:13 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 09:03:20 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:04:29 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:05:38 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:06:45 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:07:56 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:09:06 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:10:19 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:11:32 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:12:44 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:13:54 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:15:19 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:15:20 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:16:47 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:16:48 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:18:14 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:18:14 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:19:40 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:19:40 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:21:04 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:21:05 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:22:31 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:22:32 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:24:00 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:24:00 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:25:25 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:25:26 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:26:53 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:26:54 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:28:32 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:28:32 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:29:59 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:29:59 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:31:23 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:31:23 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:32:49 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:32:50 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:34:18 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:34:18 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:35:45 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:35:45 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:37:12 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:37:13 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:38:39 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:38:40 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:40:06 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:40:07 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:41:33 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:41:34 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:43:15 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:43:16 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:44:43 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:44:44 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:46:11 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:46:12 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:47:36 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:47:36 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:48:59 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:49:00 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:50:24 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:50:25 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:51:49 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:51:50 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:53:19 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:53:19 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:54:46 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:54:47 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:56:11 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:56:12 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:57:52 INFO spiders_scrolldown_page.py 81 4136 wait_increase failure
+Sun 20 Nov 2016 09:57:53 INFO spiders_scrolldown_page.py 49 4136 download 2218 from https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:57:54 CRITICAL spiders_scrolldown_page.py 59 4136 error in account: https://www.instagram.com/littleblackboots
+Sun 20 Nov 2016 09:57:54 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/littleblackboots with 0 imgs
+Sun 20 Nov 2016 09:57:54 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/littleblackboots, usage: 3347.964, newin_num: 0
+Sun 20 Nov 2016 09:58:44 INFO spiders_manager.py 23 4136 start crawl intagram account: https://www.instagram.com/rumineely
+Sun 20 Nov 2016 09:58:44 INFO spiders_initial_driver.py 17 4136 initial driver
+Sun 20 Nov 2016 09:58:50 INFO spiders_click_morebutton.py 26 4136 clicked load more button
+Sun 20 Nov 2016 09:58:50 INFO spiders_scrolldown_page.py 26 4136 start scroll down
+Sun 20 Nov 2016 10:00:02 INFO spiders_scrolldown_page.py 49 4136 download 264 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:01:11 INFO spiders_scrolldown_page.py 49 4136 download 504 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:02:20 INFO spiders_scrolldown_page.py 49 4136 download 744 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:03:33 INFO spiders_scrolldown_page.py 49 4136 download 984 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:04:41 INFO spiders_scrolldown_page.py 49 4136 download 1224 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:05:50 INFO spiders_scrolldown_page.py 49 4136 download 1464 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:07:03 INFO spiders_scrolldown_page.py 49 4136 download 1704 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:08:17 INFO spiders_scrolldown_page.py 49 4136 download 1944 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:09:30 INFO spiders_scrolldown_page.py 49 4136 download 2184 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:10:43 INFO spiders_scrolldown_page.py 49 4136 download 2424 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:11:54 INFO spiders_scrolldown_page.py 49 4136 download 2664 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:13:08 INFO spiders_scrolldown_page.py 49 4136 download 2904 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:14:25 INFO spiders_scrolldown_page.py 49 4136 download 3144 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:15:39 INFO spiders_scrolldown_page.py 49 4136 download 3384 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:16:49 INFO spiders_scrolldown_page.py 49 4136 download 3619 from https://www.instagram.com/rumineely
+Sun 20 Nov 2016 10:16:49 INFO spiders_scrolldown_page.py 63 4136 finish scroll down with 3619 imgs
+Sun 20 Nov 2016 10:16:51 INFO spiders_worker.py 63 4136 locating all hrefs using 1.739
+Sun 20 Nov 2016 10:16:54 INFO spiders_worker.py 65 4136 locating all imgs and hrefs using 4.456
+Sun 20 Nov 2016 10:19:22 INFO spiders_worker.py 69 4136 getting all imgs with hrefs using 152.601
+Sun 20 Nov 2016 10:19:22 INFO spiders_manager.py 26 4136 finish crawl intagram account: https://www.instagram.com/rumineely with 3619 imgs
+Sun 20 Nov 2016 10:19:22 INFO spiders_manager.py 28 4136 account: https://www.instagram.com/rumineely, usage: 1238.490, newin_num: 3619
