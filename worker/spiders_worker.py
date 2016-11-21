@@ -29,6 +29,7 @@ class spiders_worker(object):
         
     def spider_download(self, reload = False):
         try:
+            newin_number = 0
             self.driver = spiders_driver_initializer().spider_initial_driver()
             spiders_page_initializer(self.driver, self.base_url).spider_initial_page()
             instagramer_info = spiders_user_info(self.driver, self.base_url).spider_get_info()
@@ -79,8 +80,8 @@ class spiders_worker(object):
                 img = href.find_element_by_xpath(".//img")
                 if img.get_attribute('src'):
                     imgs_href.append((img.get_attribute('src'), href.get_attribute('href')))
-                if idx%1001==1000:
-                    self.spider_log.logger.info("finds %d imgs under hrefs using %0.3f"%(idx/1001*1000, time.time()-start_time))
+                if (idx+1)%1000==0:
+                    self.spider_log.logger.info("finds %d imgs under hrefs using %0.3f"%(idx/1000*1000, time.time()-start_time))
         except Exception:
             imgs_href = []
         finally:
