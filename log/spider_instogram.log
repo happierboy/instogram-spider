@@ -698,3 +698,7 @@ Mon 21 Nov 2016 19:06:24 INFO spiders_manager.py 26 13716 finish crawl intagram 
 Mon 21 Nov 2016 19:06:24 INFO spiders_manager.py 28 13716 account: https://www.instagram.com/littleblackboots, usage: 78.062, newin_num: 2
 Mon 21 Nov 2016 19:07:26 INFO spiders_manager.py 23 13716 start crawl intagram account: https://www.instagram.com/alealimay
 Mon 21 Nov 2016 19:07:26 INFO spiders_initial_driver.py 17 13716 initial driver
+Mon 21 Nov 2016 19:15:09 INFO spiders_manager.py 23 14241 start crawl intagram account: https://www.instagram.com/littleblackboots
+Mon 21 Nov 2016 19:15:09 INFO spiders_initial_driver.py 17 14241 initial driver
+Mon 21 Nov 2016 19:15:14 INFO spiders_click_morebutton.py 26 14241 clicked load more button
+Mon 21 Nov 2016 19:15:14 INFO spiders_scrolldown_page.py 26 14241 start scroll down: targeting 1 imgs in https://www.instagram.com/littleblackboots

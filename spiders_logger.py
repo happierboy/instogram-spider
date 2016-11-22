@@ -6,6 +6,7 @@ Created on 17 Nov 2016
 
 import logging
 import os
+import time
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -25,11 +26,10 @@ class spiders_logger(object):
         self.logger = logging.getLogger(self.logger_name)
         self.logger.setLevel(logging.DEBUG)
         self.logger.propagate = False
-        
+        filename = time.strftime("%Y-%m-%d %H:%M:%S.log", time.localtime())
         log_path = os.path.join(os.path.join(base_dir, 'log'), filename)
         self.fh = logging.FileHandler(log_path)
         self.fh.setLevel(logging.DEBUG)
-        
         fmt = "%(asctime)-15s %(levelname)s %(filename)s %(lineno)d %(process)d %(message)s"
         datefmt = "%a %d %b %Y %H:%M:%S"
         formatter = logging.Formatter(fmt, datefmt)
