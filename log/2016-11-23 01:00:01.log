@@ -1,0 +1,616 @@
+Wed 23 Nov 2016 01:00:01 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/littleblackboots
+Wed 23 Nov 2016 01:00:01 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:00:16 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:00:16 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/littleblackboots
+Wed 23 Nov 2016 01:01:27 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/littleblackboots
+Wed 23 Nov 2016 01:01:27 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/littleblackboots
+Wed 23 Nov 2016 01:01:27 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 01:01:27 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.059
+Wed 23 Nov 2016 01:01:32 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.757
+Wed 23 Nov 2016 01:01:33 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/littleblackboots with 0 imgs
+Wed 23 Nov 2016 01:01:33 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/littleblackboots, usage: 91.416, newin_num: 0
+Wed 23 Nov 2016 01:02:24 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/alealimay
+Wed 23 Nov 2016 01:02:24 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:02:37 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:02:37 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/alealimay
+Wed 23 Nov 2016 01:03:47 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/alealimay
+Wed 23 Nov 2016 01:03:47 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/alealimay
+Wed 23 Nov 2016 01:03:47 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:03:48 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 01:03:53 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.809
+Wed 23 Nov 2016 01:03:53 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/alealimay with 0 imgs
+Wed 23 Nov 2016 01:03:53 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/alealimay, usage: 89.901, newin_num: 0
+Wed 23 Nov 2016 01:04:58 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/chiaraferragni/
+Wed 23 Nov 2016 01:04:58 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:05:12 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:05:12 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 4 imgs in https://www.instagram.com/chiaraferragni/
+Wed 23 Nov 2016 01:06:20 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/chiaraferragni/
+Wed 23 Nov 2016 01:06:20 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/chiaraferragni/
+Wed 23 Nov 2016 01:06:20 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:06:20 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.053
+Wed 23 Nov 2016 01:06:26 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.851
+Wed 23 Nov 2016 01:06:26 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/chiaraferragni/ with 4 imgs
+Wed 23 Nov 2016 01:06:26 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/chiaraferragni/, usage: 88.455, newin_num: 4
+Wed 23 Nov 2016 01:07:32 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/queenhorsfall
+Wed 23 Nov 2016 01:07:32 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:07:46 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:07:46 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/queenhorsfall
+Wed 23 Nov 2016 01:08:52 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/queenhorsfall
+Wed 23 Nov 2016 01:08:52 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/queenhorsfall
+Wed 23 Nov 2016 01:08:52 INFO spiders_worker.py 64 27503 locating all hrefs using 0.017
+Wed 23 Nov 2016 01:08:52 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.050
+Wed 23 Nov 2016 01:08:57 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.736
+Wed 23 Nov 2016 01:08:58 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/queenhorsfall with 1 imgs
+Wed 23 Nov 2016 01:08:58 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/queenhorsfall, usage: 85.492, newin_num: 1
+Wed 23 Nov 2016 01:09:53 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/yunastyle
+Wed 23 Nov 2016 01:09:53 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:10:06 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:10:06 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/yunastyle
+Wed 23 Nov 2016 01:11:17 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/yunastyle
+Wed 23 Nov 2016 01:11:17 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/yunastyle
+Wed 23 Nov 2016 01:11:17 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:11:17 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.053
+Wed 23 Nov 2016 01:11:22 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.734
+Wed 23 Nov 2016 01:11:23 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/yunastyle with 2 imgs
+Wed 23 Nov 2016 01:11:23 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/yunastyle, usage: 90.137, newin_num: 2
+Wed 23 Nov 2016 01:12:28 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/halopeoplekr
+Wed 23 Nov 2016 01:12:28 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:12:41 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:12:41 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/halopeoplekr
+Wed 23 Nov 2016 01:13:53 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/halopeoplekr
+Wed 23 Nov 2016 01:13:53 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/halopeoplekr
+Wed 23 Nov 2016 01:13:53 INFO spiders_worker.py 64 27503 locating all hrefs using 0.018
+Wed 23 Nov 2016 01:13:53 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.051
+Wed 23 Nov 2016 01:13:59 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.799
+Wed 23 Nov 2016 01:13:59 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/halopeoplekr with 1 imgs
+Wed 23 Nov 2016 01:13:59 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/halopeoplekr, usage: 91.427, newin_num: 1
+Wed 23 Nov 2016 01:14:59 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/jdinkoreasince2012
+Wed 23 Nov 2016 01:14:59 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:15:15 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:15:15 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/jdinkoreasince2012
+Wed 23 Nov 2016 01:16:25 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/jdinkoreasince2012
+Wed 23 Nov 2016 01:16:25 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/jdinkoreasince2012
+Wed 23 Nov 2016 01:16:25 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:16:25 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.055
+Wed 23 Nov 2016 01:16:31 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.724
+Wed 23 Nov 2016 01:16:31 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/jdinkoreasince2012 with 0 imgs
+Wed 23 Nov 2016 01:16:31 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/jdinkoreasince2012, usage: 91.878, newin_num: 0
+Wed 23 Nov 2016 01:17:33 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/realstreet1
+Wed 23 Nov 2016 01:17:33 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:17:49 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:17:49 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/realstreet1
+Wed 23 Nov 2016 01:18:57 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/realstreet1
+Wed 23 Nov 2016 01:18:57 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/realstreet1
+Wed 23 Nov 2016 01:18:57 INFO spiders_worker.py 64 27503 locating all hrefs using 0.018
+Wed 23 Nov 2016 01:18:57 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.049
+Wed 23 Nov 2016 01:19:03 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.851
+Wed 23 Nov 2016 01:19:03 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/realstreet1 with 1 imgs
+Wed 23 Nov 2016 01:19:03 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/realstreet1, usage: 89.960, newin_num: 1
+Wed 23 Nov 2016 01:20:11 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/beeswonderland
+Wed 23 Nov 2016 01:20:11 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:20:27 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:20:27 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/beeswonderland
+Wed 23 Nov 2016 01:21:38 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/beeswonderland
+Wed 23 Nov 2016 01:21:38 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/beeswonderland
+Wed 23 Nov 2016 01:21:38 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:21:38 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 01:21:44 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.659
+Wed 23 Nov 2016 01:21:44 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/beeswonderland with 3 imgs
+Wed 23 Nov 2016 01:21:44 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/beeswonderland, usage: 92.896, newin_num: 3
+Wed 23 Nov 2016 01:22:36 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/daphnemodeandthecity
+Wed 23 Nov 2016 01:22:36 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:22:51 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:22:51 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -3 imgs in https://www.instagram.com/daphnemodeandthecity
+Wed 23 Nov 2016 01:24:00 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/daphnemodeandthecity
+Wed 23 Nov 2016 01:24:00 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/daphnemodeandthecity
+Wed 23 Nov 2016 01:24:00 INFO spiders_worker.py 64 27503 locating all hrefs using 0.024
+Wed 23 Nov 2016 01:24:00 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.064
+Wed 23 Nov 2016 01:24:05 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.751
+Wed 23 Nov 2016 01:24:06 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/daphnemodeandthecity with 0 imgs
+Wed 23 Nov 2016 01:24:06 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/daphnemodeandthecity, usage: 89.655, newin_num: 0
+Wed 23 Nov 2016 01:25:12 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/ashleighdmello
+Wed 23 Nov 2016 01:25:12 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:25:25 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:25:25 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -261 imgs in https://www.instagram.com/ashleighdmello
+Wed 23 Nov 2016 01:26:33 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/ashleighdmello
+Wed 23 Nov 2016 01:26:33 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/ashleighdmello
+Wed 23 Nov 2016 01:26:33 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:26:33 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 01:26:38 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.660
+Wed 23 Nov 2016 01:26:39 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/ashleighdmello with 1 imgs
+Wed 23 Nov 2016 01:26:39 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/ashleighdmello, usage: 86.779, newin_num: 1
+Wed 23 Nov 2016 01:27:47 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/petiteflowerpresents
+Wed 23 Nov 2016 01:27:47 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:28:00 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:28:00 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -261 imgs in https://www.instagram.com/petiteflowerpresents
+Wed 23 Nov 2016 01:29:11 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/petiteflowerpresents
+Wed 23 Nov 2016 01:29:11 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/petiteflowerpresents
+Wed 23 Nov 2016 01:29:11 INFO spiders_worker.py 64 27503 locating all hrefs using 0.019
+Wed 23 Nov 2016 01:29:12 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 01:29:17 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.686
+Wed 23 Nov 2016 01:29:17 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/petiteflowerpresents with 0 imgs
+Wed 23 Nov 2016 01:29:17 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/petiteflowerpresents, usage: 90.788, newin_num: 0
+Wed 23 Nov 2016 01:30:18 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/wendyslookbook/
+Wed 23 Nov 2016 01:30:18 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:30:33 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:30:33 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -260 imgs in https://www.instagram.com/wendyslookbook/
+Wed 23 Nov 2016 01:31:41 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/wendyslookbook/
+Wed 23 Nov 2016 01:31:41 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/wendyslookbook/
+Wed 23 Nov 2016 01:31:41 INFO spiders_worker.py 64 27503 locating all hrefs using 0.026
+Wed 23 Nov 2016 01:31:41 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.060
+Wed 23 Nov 2016 01:31:47 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.810
+Wed 23 Nov 2016 01:31:47 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/wendyslookbook/ with 2 imgs
+Wed 23 Nov 2016 01:31:47 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/wendyslookbook/, usage: 89.035, newin_num: 2
+Wed 23 Nov 2016 01:32:55 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/thesartorialist/
+Wed 23 Nov 2016 01:32:55 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:33:09 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:33:09 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -260 imgs in https://www.instagram.com/thesartorialist/
+Wed 23 Nov 2016 01:34:17 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/thesartorialist/
+Wed 23 Nov 2016 01:34:17 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/thesartorialist/
+Wed 23 Nov 2016 01:34:17 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 01:34:17 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.060
+Wed 23 Nov 2016 01:34:23 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.718
+Wed 23 Nov 2016 01:34:23 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/thesartorialist/ with 0 imgs
+Wed 23 Nov 2016 01:34:23 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/thesartorialist/, usage: 87.689, newin_num: 0
+Wed 23 Nov 2016 01:35:15 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/ootdmagazine/
+Wed 23 Nov 2016 01:35:15 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:35:31 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:35:31 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 11 imgs in https://www.instagram.com/ootdmagazine/
+Wed 23 Nov 2016 01:36:39 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/ootdmagazine/
+Wed 23 Nov 2016 01:36:39 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/ootdmagazine/
+Wed 23 Nov 2016 01:36:39 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 01:36:39 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 01:36:45 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.797
+Wed 23 Nov 2016 01:36:45 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/ootdmagazine/ with 11 imgs
+Wed 23 Nov 2016 01:36:45 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/ootdmagazine/, usage: 90.243, newin_num: 11
+Wed 23 Nov 2016 01:37:48 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/solsolstreet/
+Wed 23 Nov 2016 01:37:48 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:38:03 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:38:03 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/solsolstreet/
+Wed 23 Nov 2016 01:39:09 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/solsolstreet/
+Wed 23 Nov 2016 01:39:09 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/solsolstreet/
+Wed 23 Nov 2016 01:39:09 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 01:39:09 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.053
+Wed 23 Nov 2016 01:39:15 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.626
+Wed 23 Nov 2016 01:39:15 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/solsolstreet/ with 0 imgs
+Wed 23 Nov 2016 01:39:15 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/solsolstreet/, usage: 87.684, newin_num: 0
+Wed 23 Nov 2016 01:40:14 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/asianstreetfashion/
+Wed 23 Nov 2016 01:40:14 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:40:29 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:40:29 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/asianstreetfashion/
+Wed 23 Nov 2016 01:41:37 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/asianstreetfashion/
+Wed 23 Nov 2016 01:41:37 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/asianstreetfashion/
+Wed 23 Nov 2016 01:41:37 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 01:41:37 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 01:41:42 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.663
+Wed 23 Nov 2016 01:41:43 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/asianstreetfashion/ with 0 imgs
+Wed 23 Nov 2016 01:41:43 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/asianstreetfashion/, usage: 88.508, newin_num: 0
+Wed 23 Nov 2016 01:42:47 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/majorstreetstyle/
+Wed 23 Nov 2016 01:42:47 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:43:01 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:43:01 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -16 imgs in https://www.instagram.com/majorstreetstyle/
+Wed 23 Nov 2016 01:44:10 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/majorstreetstyle/
+Wed 23 Nov 2016 01:44:10 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/majorstreetstyle/
+Wed 23 Nov 2016 01:44:10 INFO spiders_worker.py 64 27503 locating all hrefs using 0.025
+Wed 23 Nov 2016 01:44:10 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.062
+Wed 23 Nov 2016 01:44:15 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.897
+Wed 23 Nov 2016 01:44:16 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/majorstreetstyle/ with 6 imgs
+Wed 23 Nov 2016 01:44:16 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/majorstreetstyle/, usage: 88.980, newin_num: 6
+Wed 23 Nov 2016 01:45:24 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/ootd.indonesiaa/
+Wed 23 Nov 2016 01:45:24 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:45:38 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:45:38 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/ootd.indonesiaa/
+Wed 23 Nov 2016 01:46:45 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/ootd.indonesiaa/
+Wed 23 Nov 2016 01:46:45 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/ootd.indonesiaa/
+Wed 23 Nov 2016 01:46:45 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 01:46:45 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 01:46:50 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.810
+Wed 23 Nov 2016 01:46:51 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/ootd.indonesiaa/ with 2 imgs
+Wed 23 Nov 2016 01:46:51 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/ootd.indonesiaa/, usage: 86.909, newin_num: 2
+Wed 23 Nov 2016 01:47:58 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/streetmag/
+Wed 23 Nov 2016 01:47:58 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:48:11 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:48:11 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/streetmag/
+Wed 23 Nov 2016 01:49:18 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/streetmag/
+Wed 23 Nov 2016 01:49:18 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/streetmag/
+Wed 23 Nov 2016 01:49:18 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 01:49:18 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.061
+Wed 23 Nov 2016 01:49:23 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.745
+Wed 23 Nov 2016 01:49:23 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/streetmag/ with 0 imgs
+Wed 23 Nov 2016 01:49:23 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/streetmag/, usage: 85.768, newin_num: 0
+Wed 23 Nov 2016 01:50:34 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/street_style_paris/
+Wed 23 Nov 2016 01:50:34 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:50:48 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:50:48 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -74 imgs in https://www.instagram.com/street_style_paris/
+Wed 23 Nov 2016 01:51:58 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/street_style_paris/
+Wed 23 Nov 2016 01:51:58 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/street_style_paris/
+Wed 23 Nov 2016 01:51:58 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 01:51:58 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.060
+Wed 23 Nov 2016 01:52:04 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.661
+Wed 23 Nov 2016 01:52:04 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/street_style_paris/ with 12 imgs
+Wed 23 Nov 2016 01:52:04 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/street_style_paris/, usage: 90.207, newin_num: 12
+Wed 23 Nov 2016 01:53:14 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/tsangtastic
+Wed 23 Nov 2016 01:53:14 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:53:30 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:53:30 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/tsangtastic
+Wed 23 Nov 2016 01:54:39 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/tsangtastic
+Wed 23 Nov 2016 01:54:39 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/tsangtastic
+Wed 23 Nov 2016 01:54:39 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 01:54:39 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 01:54:45 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.837
+Wed 23 Nov 2016 01:54:45 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/tsangtastic with 0 imgs
+Wed 23 Nov 2016 01:54:45 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/tsangtastic, usage: 91.410, newin_num: 0
+Wed 23 Nov 2016 01:55:35 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/hapatime
+Wed 23 Nov 2016 01:55:35 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:55:49 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:55:49 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -29 imgs in https://www.instagram.com/hapatime
+Wed 23 Nov 2016 01:56:59 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/hapatime
+Wed 23 Nov 2016 01:56:59 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/hapatime
+Wed 23 Nov 2016 01:56:59 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 01:56:59 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.058
+Wed 23 Nov 2016 01:57:05 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.650
+Wed 23 Nov 2016 01:57:05 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/hapatime with 1 imgs
+Wed 23 Nov 2016 01:57:05 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/hapatime, usage: 89.719, newin_num: 1
+Wed 23 Nov 2016 01:58:06 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/alexcloset
+Wed 23 Nov 2016 01:58:06 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 01:58:20 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 01:58:20 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/alexcloset
+Wed 23 Nov 2016 01:59:29 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/alexcloset
+Wed 23 Nov 2016 01:59:29 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/alexcloset
+Wed 23 Nov 2016 01:59:29 INFO spiders_worker.py 64 27503 locating all hrefs using 0.024
+Wed 23 Nov 2016 01:59:30 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 01:59:35 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.855
+Wed 23 Nov 2016 01:59:36 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/alexcloset with 0 imgs
+Wed 23 Nov 2016 01:59:36 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/alexcloset, usage: 89.569, newin_num: 0
+Wed 23 Nov 2016 02:00:28 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/thestreetograph
+Wed 23 Nov 2016 02:00:28 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:00:42 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:00:42 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -1 imgs in https://www.instagram.com/thestreetograph
+Wed 23 Nov 2016 02:01:51 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/thestreetograph
+Wed 23 Nov 2016 02:01:51 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/thestreetograph
+Wed 23 Nov 2016 02:01:51 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 02:01:51 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.058
+Wed 23 Nov 2016 02:01:57 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.751
+Wed 23 Nov 2016 02:01:57 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/thestreetograph with 1 imgs
+Wed 23 Nov 2016 02:01:57 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/thestreetograph, usage: 89.471, newin_num: 1
+Wed 23 Nov 2016 02:03:01 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/tlnique
+Wed 23 Nov 2016 02:03:01 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:03:16 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:03:16 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/tlnique
+Wed 23 Nov 2016 02:04:27 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/tlnique
+Wed 23 Nov 2016 02:04:27 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/tlnique
+Wed 23 Nov 2016 02:04:27 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 02:04:27 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 02:04:32 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.741
+Wed 23 Nov 2016 02:04:33 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/tlnique with 1 imgs
+Wed 23 Nov 2016 02:04:33 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/tlnique, usage: 91.426, newin_num: 1
+Wed 23 Nov 2016 02:05:24 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/poppy_shmy
+Wed 23 Nov 2016 02:05:24 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:05:38 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:05:38 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/poppy_shmy
+Wed 23 Nov 2016 02:06:46 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/poppy_shmy
+Wed 23 Nov 2016 02:06:46 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/poppy_shmy
+Wed 23 Nov 2016 02:06:46 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 02:06:46 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.059
+Wed 23 Nov 2016 02:06:52 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.817
+Wed 23 Nov 2016 02:06:52 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/poppy_shmy with 0 imgs
+Wed 23 Nov 2016 02:06:52 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/poppy_shmy, usage: 88.658, newin_num: 0
+Wed 23 Nov 2016 02:07:55 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/streetstyled/
+Wed 23 Nov 2016 02:07:55 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:08:09 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:08:09 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/streetstyled/
+Wed 23 Nov 2016 02:09:17 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/streetstyled/
+Wed 23 Nov 2016 02:09:17 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/streetstyled/
+Wed 23 Nov 2016 02:09:17 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 02:09:17 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.060
+Wed 23 Nov 2016 02:09:23 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.630
+Wed 23 Nov 2016 02:09:23 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/streetstyled/ with 0 imgs
+Wed 23 Nov 2016 02:09:23 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/streetstyled/, usage: 87.554, newin_num: 0
+Wed 23 Nov 2016 02:10:33 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/streetper/
+Wed 23 Nov 2016 02:10:33 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:10:48 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:10:48 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -2 imgs in https://www.instagram.com/streetper/
+Wed 23 Nov 2016 02:11:53 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/streetper/
+Wed 23 Nov 2016 02:11:53 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/streetper/
+Wed 23 Nov 2016 02:11:53 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 02:11:53 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.059
+Wed 23 Nov 2016 02:11:59 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.716
+Wed 23 Nov 2016 02:11:59 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/streetper/ with 0 imgs
+Wed 23 Nov 2016 02:11:59 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/streetper/, usage: 86.364, newin_num: 0
+Wed 23 Nov 2016 02:12:55 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/songofstyle
+Wed 23 Nov 2016 02:12:55 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:13:09 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:13:09 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/songofstyle
+Wed 23 Nov 2016 02:14:17 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/songofstyle
+Wed 23 Nov 2016 02:14:17 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/songofstyle
+Wed 23 Nov 2016 02:14:17 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 02:14:17 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.055
+Wed 23 Nov 2016 02:14:23 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.744
+Wed 23 Nov 2016 02:14:23 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/songofstyle with 1 imgs
+Wed 23 Nov 2016 02:14:23 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/songofstyle, usage: 88.123, newin_num: 1
+Wed 23 Nov 2016 02:15:16 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/chrisellelim
+Wed 23 Nov 2016 02:15:16 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:15:31 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:15:31 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/chrisellelim
+Wed 23 Nov 2016 02:16:39 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/chrisellelim
+Wed 23 Nov 2016 02:16:39 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/chrisellelim
+Wed 23 Nov 2016 02:16:39 INFO spiders_worker.py 64 27503 locating all hrefs using 0.019
+Wed 23 Nov 2016 02:16:39 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.052
+Wed 23 Nov 2016 02:16:45 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.768
+Wed 23 Nov 2016 02:16:45 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/chrisellelim with 0 imgs
+Wed 23 Nov 2016 02:16:45 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/chrisellelim, usage: 88.756, newin_num: 0
+Wed 23 Nov 2016 02:17:42 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/imjennim
+Wed 23 Nov 2016 02:17:42 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:17:57 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:17:57 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/imjennim
+Wed 23 Nov 2016 02:19:05 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/imjennim
+Wed 23 Nov 2016 02:19:05 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/imjennim
+Wed 23 Nov 2016 02:19:05 INFO spiders_worker.py 64 27503 locating all hrefs using 0.019
+Wed 23 Nov 2016 02:19:05 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.053
+Wed 23 Nov 2016 02:19:11 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.669
+Wed 23 Nov 2016 02:19:11 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/imjennim with 1 imgs
+Wed 23 Nov 2016 02:19:11 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/imjennim, usage: 89.064, newin_num: 1
+Wed 23 Nov 2016 02:20:07 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/rumineely
+Wed 23 Nov 2016 02:20:07 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:20:23 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:20:23 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/rumineely
+Wed 23 Nov 2016 02:21:30 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/rumineely
+Wed 23 Nov 2016 02:21:30 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/rumineely
+Wed 23 Nov 2016 02:21:30 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 02:21:30 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 02:21:36 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.740
+Wed 23 Nov 2016 02:21:36 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/rumineely with 3 imgs
+Wed 23 Nov 2016 02:21:36 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/rumineely, usage: 88.895, newin_num: 3
+Wed 23 Nov 2016 02:22:28 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/streetstyle
+Wed 23 Nov 2016 02:22:28 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:22:44 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:22:44 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/streetstyle
+Wed 23 Nov 2016 02:23:55 INFO spiders_scrolldown_page.py 49 27503 download 74 from https://www.instagram.com/streetstyle
+Wed 23 Nov 2016 02:23:55 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 74 imgs in https://www.instagram.com/streetstyle
+Wed 23 Nov 2016 02:23:55 INFO spiders_worker.py 64 27503 locating all hrefs using 0.011
+Wed 23 Nov 2016 02:23:55 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.035
+Wed 23 Nov 2016 02:23:57 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 1.608
+Wed 23 Nov 2016 02:23:57 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/streetstyle with 0 imgs
+Wed 23 Nov 2016 02:23:57 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/streetstyle, usage: 88.997, newin_num: 0
+Wed 23 Nov 2016 02:24:52 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/yoyokulala
+Wed 23 Nov 2016 02:24:52 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:25:06 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:25:06 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/yoyokulala
+Wed 23 Nov 2016 02:26:10 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/yoyokulala
+Wed 23 Nov 2016 02:26:10 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/yoyokulala
+Wed 23 Nov 2016 02:26:10 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 02:26:10 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.053
+Wed 23 Nov 2016 02:26:16 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.657
+Wed 23 Nov 2016 02:26:16 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/yoyokulala with 2 imgs
+Wed 23 Nov 2016 02:26:16 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/yoyokulala, usage: 83.900, newin_num: 2
+Wed 23 Nov 2016 02:27:21 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/evangelineyan
+Wed 23 Nov 2016 02:27:21 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:27:35 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:27:35 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/evangelineyan
+Wed 23 Nov 2016 02:28:44 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/evangelineyan
+Wed 23 Nov 2016 02:28:44 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/evangelineyan
+Wed 23 Nov 2016 02:28:44 INFO spiders_worker.py 64 27503 locating all hrefs using 0.016
+Wed 23 Nov 2016 02:28:44 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.051
+Wed 23 Nov 2016 02:28:50 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.709
+Wed 23 Nov 2016 02:28:50 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/evangelineyan with 3 imgs
+Wed 23 Nov 2016 02:28:50 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/evangelineyan, usage: 88.997, newin_num: 3
+Wed 23 Nov 2016 02:29:45 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/cherriemun_
+Wed 23 Nov 2016 02:29:45 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:29:59 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:29:59 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/cherriemun_
+Wed 23 Nov 2016 02:31:08 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/cherriemun_
+Wed 23 Nov 2016 02:31:08 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/cherriemun_
+Wed 23 Nov 2016 02:31:08 INFO spiders_worker.py 64 27503 locating all hrefs using 0.019
+Wed 23 Nov 2016 02:31:08 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.052
+Wed 23 Nov 2016 02:31:14 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.731
+Wed 23 Nov 2016 02:31:14 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/cherriemun_ with 1 imgs
+Wed 23 Nov 2016 02:31:14 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/cherriemun_, usage: 88.614, newin_num: 1
+Wed 23 Nov 2016 02:32:04 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/songdani
+Wed 23 Nov 2016 02:32:04 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:32:20 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:32:20 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/songdani
+Wed 23 Nov 2016 02:33:29 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/songdani
+Wed 23 Nov 2016 02:33:29 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/songdani
+Wed 23 Nov 2016 02:33:29 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 02:33:29 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 02:33:35 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.721
+Wed 23 Nov 2016 02:33:35 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/songdani with 0 imgs
+Wed 23 Nov 2016 02:33:35 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/songdani, usage: 91.049, newin_num: 0
+Wed 23 Nov 2016 02:34:29 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/emilythemermaid
+Wed 23 Nov 2016 02:34:29 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:34:44 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:34:44 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -2 imgs in https://www.instagram.com/emilythemermaid
+Wed 23 Nov 2016 02:35:53 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/emilythemermaid
+Wed 23 Nov 2016 02:35:53 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/emilythemermaid
+Wed 23 Nov 2016 02:35:53 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 02:35:53 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 02:35:59 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.684
+Wed 23 Nov 2016 02:35:59 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/emilythemermaid with 2 imgs
+Wed 23 Nov 2016 02:35:59 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/emilythemermaid, usage: 90.096, newin_num: 2
+Wed 23 Nov 2016 02:36:58 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/chrisaliescorners
+Wed 23 Nov 2016 02:36:58 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:37:13 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:37:13 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/chrisaliescorners
+Wed 23 Nov 2016 02:38:21 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/chrisaliescorners
+Wed 23 Nov 2016 02:38:21 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/chrisaliescorners
+Wed 23 Nov 2016 02:38:21 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 02:38:21 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 02:38:27 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.692
+Wed 23 Nov 2016 02:38:27 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/chrisaliescorners with 0 imgs
+Wed 23 Nov 2016 02:38:27 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/chrisaliescorners, usage: 88.691, newin_num: 0
+Wed 23 Nov 2016 02:39:17 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/rchlwngxx
+Wed 23 Nov 2016 02:39:17 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:39:31 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:39:31 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/rchlwngxx
+Wed 23 Nov 2016 02:40:40 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/rchlwngxx
+Wed 23 Nov 2016 02:40:40 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/rchlwngxx
+Wed 23 Nov 2016 02:40:40 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 02:40:40 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.059
+Wed 23 Nov 2016 02:40:45 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.731
+Wed 23 Nov 2016 02:40:46 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/rchlwngxx with 0 imgs
+Wed 23 Nov 2016 02:40:46 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/rchlwngxx, usage: 88.758, newin_num: 0
+Wed 23 Nov 2016 02:41:49 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/karenngkarenng
+Wed 23 Nov 2016 02:41:49 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:42:03 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:42:03 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/karenngkarenng
+Wed 23 Nov 2016 02:43:13 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/karenngkarenng
+Wed 23 Nov 2016 02:43:13 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/karenngkarenng
+Wed 23 Nov 2016 02:43:13 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 02:43:13 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.060
+Wed 23 Nov 2016 02:43:19 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.763
+Wed 23 Nov 2016 02:43:19 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/karenngkarenng with 0 imgs
+Wed 23 Nov 2016 02:43:19 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/karenngkarenng, usage: 90.429, newin_num: 0
+Wed 23 Nov 2016 02:44:11 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/savoirsam
+Wed 23 Nov 2016 02:44:11 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:44:25 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:44:25 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/savoirsam
+Wed 23 Nov 2016 02:45:30 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/savoirsam
+Wed 23 Nov 2016 02:45:30 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/savoirsam
+Wed 23 Nov 2016 02:45:30 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 02:45:30 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.054
+Wed 23 Nov 2016 02:45:36 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.686
+Wed 23 Nov 2016 02:45:36 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/savoirsam with 1 imgs
+Wed 23 Nov 2016 02:45:36 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/savoirsam, usage: 85.194, newin_num: 1
+Wed 23 Nov 2016 02:46:41 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/audreyxaudrey
+Wed 23 Nov 2016 02:46:41 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:46:56 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:46:56 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/audreyxaudrey
+Wed 23 Nov 2016 02:48:04 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/audreyxaudrey
+Wed 23 Nov 2016 02:48:04 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/audreyxaudrey
+Wed 23 Nov 2016 02:48:04 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 02:48:04 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.058
+Wed 23 Nov 2016 02:48:10 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.801
+Wed 23 Nov 2016 02:48:10 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/audreyxaudrey with 1 imgs
+Wed 23 Nov 2016 02:48:10 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/audreyxaudrey, usage: 88.757, newin_num: 1
+Wed 23 Nov 2016 02:49:16 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/skinnyspy
+Wed 23 Nov 2016 02:49:16 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:49:32 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:49:32 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -2 imgs in https://www.instagram.com/skinnyspy
+Wed 23 Nov 2016 02:50:41 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/skinnyspy
+Wed 23 Nov 2016 02:50:41 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/skinnyspy
+Wed 23 Nov 2016 02:50:41 INFO spiders_worker.py 64 27503 locating all hrefs using 0.024
+Wed 23 Nov 2016 02:50:41 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.064
+Wed 23 Nov 2016 02:50:46 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.702
+Wed 23 Nov 2016 02:50:47 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/skinnyspy with 0 imgs
+Wed 23 Nov 2016 02:50:47 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/skinnyspy, usage: 90.317, newin_num: 0
+Wed 23 Nov 2016 02:51:43 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/olivialazuardy
+Wed 23 Nov 2016 02:51:43 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:51:56 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:51:56 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 3 imgs in https://www.instagram.com/olivialazuardy
+Wed 23 Nov 2016 02:53:08 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/olivialazuardy
+Wed 23 Nov 2016 02:53:08 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/olivialazuardy
+Wed 23 Nov 2016 02:53:08 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 02:53:08 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.058
+Wed 23 Nov 2016 02:53:14 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.833
+Wed 23 Nov 2016 02:53:15 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/olivialazuardy with 3 imgs
+Wed 23 Nov 2016 02:53:15 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/olivialazuardy, usage: 92.046, newin_num: 3
+Wed 23 Nov 2016 02:54:21 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/forevervanny
+Wed 23 Nov 2016 02:54:21 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:54:35 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:54:35 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/forevervanny
+Wed 23 Nov 2016 02:55:45 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/forevervanny
+Wed 23 Nov 2016 02:55:45 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/forevervanny
+Wed 23 Nov 2016 02:55:45 INFO spiders_worker.py 64 27503 locating all hrefs using 0.023
+Wed 23 Nov 2016 02:55:45 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.059
+Wed 23 Nov 2016 02:55:51 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.819
+Wed 23 Nov 2016 02:55:51 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/forevervanny with 0 imgs
+Wed 23 Nov 2016 02:55:51 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/forevervanny, usage: 90.274, newin_num: 0
+Wed 23 Nov 2016 02:56:59 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/violettedaily
+Wed 23 Nov 2016 02:56:59 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:57:14 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:57:14 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 2 imgs in https://www.instagram.com/violettedaily
+Wed 23 Nov 2016 02:58:20 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/violettedaily
+Wed 23 Nov 2016 02:58:20 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/violettedaily
+Wed 23 Nov 2016 02:58:20 INFO spiders_worker.py 64 27503 locating all hrefs using 0.020
+Wed 23 Nov 2016 02:58:20 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 02:58:26 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.665
+Wed 23 Nov 2016 02:58:26 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/violettedaily with 2 imgs
+Wed 23 Nov 2016 02:58:26 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/violettedaily, usage: 87.115, newin_num: 2
+Wed 23 Nov 2016 02:59:24 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/itsfranxcesca
+Wed 23 Nov 2016 02:59:24 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 02:59:38 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 02:59:38 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/itsfranxcesca
+Wed 23 Nov 2016 03:00:45 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/itsfranxcesca
+Wed 23 Nov 2016 03:00:45 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/itsfranxcesca
+Wed 23 Nov 2016 03:00:45 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 03:00:45 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.058
+Wed 23 Nov 2016 03:00:51 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.837
+Wed 23 Nov 2016 03:00:51 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/itsfranxcesca with 1 imgs
+Wed 23 Nov 2016 03:00:51 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/itsfranxcesca, usage: 86.945, newin_num: 1
+Wed 23 Nov 2016 03:01:57 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/jenniferwhwang
+Wed 23 Nov 2016 03:01:57 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:02:12 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:02:12 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 1 imgs in https://www.instagram.com/jenniferwhwang
+Wed 23 Nov 2016 03:03:17 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/jenniferwhwang
+Wed 23 Nov 2016 03:03:17 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/jenniferwhwang
+Wed 23 Nov 2016 03:03:17 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 03:03:17 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.055
+Wed 23 Nov 2016 03:03:23 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.694
+Wed 23 Nov 2016 03:03:23 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/jenniferwhwang with 3 imgs
+Wed 23 Nov 2016 03:03:23 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/jenniferwhwang, usage: 85.969, newin_num: 3
+Wed 23 Nov 2016 03:04:20 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/dreachong
+Wed 23 Nov 2016 03:04:20 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:04:37 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:04:37 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/dreachong
+Wed 23 Nov 2016 03:05:47 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/dreachong
+Wed 23 Nov 2016 03:05:47 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/dreachong
+Wed 23 Nov 2016 03:05:48 INFO spiders_worker.py 64 27503 locating all hrefs using 0.022
+Wed 23 Nov 2016 03:05:48 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.056
+Wed 23 Nov 2016 03:05:53 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.545
+Wed 23 Nov 2016 03:05:53 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/dreachong with 3 imgs
+Wed 23 Nov 2016 03:05:53 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/dreachong, usage: 93.105, newin_num: 3
+Wed 23 Nov 2016 03:06:46 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/anazsiantar
+Wed 23 Nov 2016 03:06:46 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:07:02 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:07:02 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/anazsiantar
+Wed 23 Nov 2016 03:08:14 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/anazsiantar
+Wed 23 Nov 2016 03:08:14 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/anazsiantar
+Wed 23 Nov 2016 03:08:14 INFO spiders_worker.py 64 27503 locating all hrefs using 0.018
+Wed 23 Nov 2016 03:08:14 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.055
+Wed 23 Nov 2016 03:08:19 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.685
+Wed 23 Nov 2016 03:08:20 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/anazsiantar with 2 imgs
+Wed 23 Nov 2016 03:08:20 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/anazsiantar, usage: 93.504, newin_num: 2
+Wed 23 Nov 2016 03:09:16 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/kaillling
+Wed 23 Nov 2016 03:09:16 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:09:31 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:09:31 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting -1 imgs in https://www.instagram.com/kaillling
+Wed 23 Nov 2016 03:10:38 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/kaillling
+Wed 23 Nov 2016 03:10:38 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/kaillling
+Wed 23 Nov 2016 03:10:38 INFO spiders_worker.py 64 27503 locating all hrefs using 0.024
+Wed 23 Nov 2016 03:10:38 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.062
+Wed 23 Nov 2016 03:10:44 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.644
+Wed 23 Nov 2016 03:10:44 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/kaillling with 1 imgs
+Wed 23 Nov 2016 03:10:44 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/kaillling, usage: 88.026, newin_num: 1
+Wed 23 Nov 2016 03:11:37 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/cindytanjaya
+Wed 23 Nov 2016 03:11:37 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:11:52 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:11:52 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/cindytanjaya
+Wed 23 Nov 2016 03:13:03 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/cindytanjaya
+Wed 23 Nov 2016 03:13:03 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/cindytanjaya
+Wed 23 Nov 2016 03:13:03 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 03:13:03 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.057
+Wed 23 Nov 2016 03:13:09 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.724
+Wed 23 Nov 2016 03:13:09 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/cindytanjaya with 0 imgs
+Wed 23 Nov 2016 03:13:09 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/cindytanjaya, usage: 91.986, newin_num: 0
+Wed 23 Nov 2016 03:14:19 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/thehautepursuit
+Wed 23 Nov 2016 03:14:19 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:14:33 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:14:33 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 0 imgs in https://www.instagram.com/thehautepursuit
+Wed 23 Nov 2016 03:15:40 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/thehautepursuit
+Wed 23 Nov 2016 03:15:40 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/thehautepursuit
+Wed 23 Nov 2016 03:15:40 INFO spiders_worker.py 64 27503 locating all hrefs using 0.021
+Wed 23 Nov 2016 03:15:40 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.058
+Wed 23 Nov 2016 03:15:46 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.704
+Wed 23 Nov 2016 03:15:46 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/thehautepursuit with 0 imgs
+Wed 23 Nov 2016 03:15:46 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/thehautepursuit, usage: 87.326, newin_num: 0
+Wed 23 Nov 2016 03:16:42 INFO spiders_manager.py 23 27503 start crawl intagram account: https://www.instagram.com/ootdsubmit/
+Wed 23 Nov 2016 03:16:42 INFO spiders_initial_driver.py 17 27503 initial driver
+Wed 23 Nov 2016 03:16:56 INFO spiders_click_morebutton.py 26 27503 clicked load more button
+Wed 23 Nov 2016 03:16:56 INFO spiders_scrolldown_page.py 26 27503 start scroll down: targeting 3 imgs in https://www.instagram.com/ootdsubmit/
+Wed 23 Nov 2016 03:18:04 INFO spiders_scrolldown_page.py 49 27503 download 264 from https://www.instagram.com/ootdsubmit/
+Wed 23 Nov 2016 03:18:04 INFO spiders_scrolldown_page.py 69 27503 finish scroll down: 264 imgs in https://www.instagram.com/ootdsubmit/
+Wed 23 Nov 2016 03:18:04 INFO spiders_worker.py 64 27503 locating all hrefs using 0.019
+Wed 23 Nov 2016 03:18:04 INFO spiders_worker.py 66 27503 locating all imgs and hrefs using 0.055
+Wed 23 Nov 2016 03:18:09 INFO spiders_worker.py 70 27503 getting all imgs with hrefs using 5.679
+Wed 23 Nov 2016 03:18:10 INFO spiders_manager.py 26 27503 finish crawl intagram account: https://www.instagram.com/ootdsubmit/ with 3 imgs
+Wed 23 Nov 2016 03:18:10 INFO spiders_manager.py 28 27503 account: https://www.instagram.com/ootdsubmit/, usage: 87.449, newin_num: 3

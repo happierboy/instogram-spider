@@ -18,7 +18,6 @@ class spiders_manager(object):
         return random.randint(50,70)*math.ceil(use_time/config.ACCOUNT_SLEEP_INTERVAL)
     
     def spider_accounts(self):
-        craw_number =  {}
         for base_url in self.intagram_accounts:
             start_time = time.time()
             self.spider_log.logger.info('start crawl intagram account: %s'%(base_url))
@@ -27,12 +26,7 @@ class spiders_manager(object):
             self.spider_log.logger.info('finish crawl intagram account: %s with %d imgs'%(base_url, newin_number))
             finish_time = time.time()
             self.spider_log.logger.info('account: %s, usage: %0.3f, newin_num: %d'%(base_url, finish_time-start_time, newin_number))
-            craw_number[base_url] = newin_number
             time.sleep(self.spider_get_rest_time((finish_time-start_time)/60))
-        self.spider_log.info('data statistic')
-        for base_url in craw_number:
-            self.spider_log.info('{url}: {newin}'.format(url = base_url, newin = craw_number[base_url]))
-        self.spider_log.info('total number: {num}'.format(num = sum(craw_number.values())))
         
 
 if __name__ == '__main__':
