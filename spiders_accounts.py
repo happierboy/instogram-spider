@@ -61,7 +61,9 @@ https://www.instagram.com/cindytanjaya
 https://www.instagram.com/thehautepursuit
 https://www.instagram.com/ootdsubmit/
 '''
-
+raw_accounts =  '''
+https://www.instagram.com/littleblackboots
+'''
 instagram_accounts = raw_accounts.split()
 # instagram_accounts = instagram_accounts[0:2]
 # instogram_accounts.reverse()

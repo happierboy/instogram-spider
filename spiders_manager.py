@@ -28,11 +28,11 @@ class spiders_manager(object):
             finish_time = time.time()
             self.spider_log.logger.info('account: %s, usage: %0.3f, newin_num: %d'%(base_url, finish_time-start_time, newin_number))
             craw_number[base_url] = newin_number
-            time.sleep(self.spider_get_rest_time((finish_time-start_time)/60))
-        self.spider_log.info('data statistic')
+#             time.sleep(self.spider_get_rest_time((finish_time-start_time)/60))
+        self.spider_log.logger.info('data statistic')
         for base_url in craw_number:
-            self.spider_log.info('{url}: {newin}'.format(url = base_url, newin = craw_number[base_url]))
-        self.spider_log.info('total number: {num}'.format(num = sum(craw_number.values())))
+            self.spider_log.logger.info('{url}: {newin}'.format(url = base_url, newin = craw_number[base_url]))
+        self.spider_log.logger.info('total number: {num}'.format(num = sum(craw_number.values())))
         
 
 if __name__ == '__main__':
