@@ -1,0 +1,14 @@
+Fri 25 Nov 2016 01:00:02 INFO spiders_manager.py 24 11060 start crawl intagram account: https://www.instagram.com/littleblackboots
+Fri 25 Nov 2016 01:00:03 INFO spiders_initial_driver.py 17 11060 initial driver
+Fri 25 Nov 2016 01:00:20 INFO spiders_click_morebutton.py 26 11060 clicked load more button
+Fri 25 Nov 2016 01:00:20 INFO spiders_scrolldown_page.py 26 11060 start scroll down: targeting 1 imgs in https://www.instagram.com/littleblackboots
+Fri 25 Nov 2016 01:01:28 INFO spiders_scrolldown_page.py 49 11060 download 264 from https://www.instagram.com/littleblackboots
+Fri 25 Nov 2016 01:01:28 INFO spiders_scrolldown_page.py 69 11060 finish scroll down: 264 imgs in https://www.instagram.com/littleblackboots
+Fri 25 Nov 2016 01:01:28 INFO spiders_worker.py 64 11060 locating all hrefs using 0.022
+Fri 25 Nov 2016 01:01:28 INFO spiders_worker.py 66 11060 locating all imgs and hrefs using 0.059
+Fri 25 Nov 2016 01:01:34 INFO spiders_worker.py 70 11060 getting all imgs with hrefs using 6.060
+Fri 25 Nov 2016 01:01:35 INFO spiders_manager.py 27 11060 finish crawl intagram account: https://www.instagram.com/littleblackboots with 0 imgs
+Fri 25 Nov 2016 01:01:35 INFO spiders_manager.py 29 11060 account: https://www.instagram.com/littleblackboots, usage: 92.352, newin_num: 0
+Fri 25 Nov 2016 01:01:35 INFO spiders_manager.py 32 11060 data statistic
+Fri 25 Nov 2016 01:01:35 INFO spiders_manager.py 34 11060 https://www.instagram.com/littleblackboots: 0
+Fri 25 Nov 2016 01:01:35 INFO spiders_manager.py 35 11060 total number: 0
